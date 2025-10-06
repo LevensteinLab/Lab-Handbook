@@ -11,9 +11,24 @@ Our work generally focuses on spatial representation in the hippocampal formatio
 In addition to our work on sleep, the lab works broadly at the interface of theoretical and experimental neuroscience - applying computational methods to a variety of interesting problems involving neural dynamics and computation with experimentalist collaborators.
 
 
-
 **Where to start?**
 
 So you want to join the lab? - prospective members start here
 
 [Onboarding](https://github.com/LevensteinLab/Lab-Handbook/blob/main/onboarding.md) - new members start here
+
+
+**Table of Contents**
+
+- `README.md`: Landing page.
+- `onboarding.md`: Relevant information for your first day through your first couple of weeks. 
+- `Resources and How-Tos`
+    - `mailing_lists.md`: Helpful mailing lists to engage in the WTI research community (journal clubs etc.)
+    - `mental_health.md`: Resources and support options for managing mental health
+    - `printers.md`: Tutorial on how to connect to lab printer, as well as links to drivers & docs
+    - `recommended_reading.md`: Links to relevant publications on topics of interest to the lab (e.g. sleep, memory consolidation, neuroAI)
+- `Lab policies, practices, and expectations`
+    - `code_software.md`: Link to helpful resources on good coding conventions
+    - `health_wellness.md`: Tips on how to manage work-life balance and health while doing research
+    - `hours_remote_vacation.md`: Policies on remote work, working hours, vacations, and holidays
+
