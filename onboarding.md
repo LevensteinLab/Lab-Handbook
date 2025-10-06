@@ -8,7 +8,7 @@
 - Get Yale ID card
     - Get 100 College/WTI card access (note: it will take about 24 hours for your card to gain access)
 - Workday stuff
-    - Sign up for Health insurance (and please see the lab handbook section on [Health, wellness, and work-life balance](https://www.notion.so/Health-wellness-and-work-life-balance-2700350ea7a68038b2b4f1e1102c12a1?pvs=21))
+    - Sign up for Health insurance (and please see the lab handbook section on [Health, wellness, and work-life balance](https://github.com/LevensteinLab/Lab-Handbook/blob/5505c9fd8f9a11e7386e4d8602adf6c8384fb48c/Lab%20policies%2C%20practices%20and%20expectations/health_wellness.md)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](https://www.notion.so/Working-hours-remote-working-and-vacation-2650350ea7a680e69cf6c1e591d1a87f?pvs=21)
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab)
     - Basic Github tutorial - make your github account, learn to make a PR.
