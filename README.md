@@ -1,5 +1,5 @@
 # Lab-Handbook
-The lab handbook of the Levenstein Lab at Yale University
+The lab handbook of the Levenstein Lab for NeuroAI and Dynamics at Yale University
 
 
 **About the lab**
