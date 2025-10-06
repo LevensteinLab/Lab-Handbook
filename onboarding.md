@@ -1,6 +1,6 @@
 *This page delineates the onboarding processes. Please try to follow it step by step. If/when you find steps that are out of date, that are poorly described, or that you think should be added to the process, please update the Lab Handbook. You should have made at least one change by the time you complete onboarding (if you don’t know how to do that, you’ll learn!), and please follow this practice whenever using the lab handbook.*
 
-**Your first day (or before, if possible)**
+**Your first day**
 - Get Yale netID/email
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Get Yale ID card
