@@ -1,4 +1,4 @@
-Working hours, remote work, and vacation
+# Working hours, remote work, and vacation
 
 As our work is predominantly theoretical/computational, we have a lot of flexibility around where we work. If it fits you, I would encourage you to plan one day a week where you work from home (or elsewhere out of office). This shift in perspective can be helpful for your work. I encourage you to take advantage of this time to think freely and critically about your project and current approaches. I do ask that you plan to attend lab meetings in person. In my experience, remote attendance encourages people to listen (at best), rather than participate, in lab meetings. Also, I do ask that you plan to be physically in lab 3-4 days a week. Of course, exceptions will be made to fit people’s circumstances.
 
