@@ -1,5 +1,7 @@
 *This page delineates the onboarding processes. Please try to follow it step by step. If/when you find steps that are out of date, that are poorly described, or that you think should be added to the process, please update the Lab Handbook. You should have made at least one change by the time you complete onboarding (if you don’t know how to do that, you’ll learn!), and please follow this practice whenever using the lab handbook.*
 
+**TODO: Permission needed for all Notion pages**
+
 **Your first day (or before, if possible)**
 - Get Yale netID/email
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
@@ -23,7 +25,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started (1-2 weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://www.notion.so/Lab-Code-and-Software-Practices-2840350ea7a6800a8b1cd1d3e4ed05b3?pvs=21), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code
+- Read about the [Lab Code and Software Practices](https://www.notion.so/Lab-Code-and-Software-Practices-2840350ea7a6800a8b1cd1d3e4ed05b3?pvs=21), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     - Set up a project repository for the tutorial
