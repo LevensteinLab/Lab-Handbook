@@ -26,9 +26,10 @@ Discuss with Dan your interests and potential first projects. In addition to any
 - Read about the [Lab Code and Software Practices](https://www.notion.so/Lab-Code-and-Software-Practices-2840350ea7a6800a8b1cd1d3e4ed05b3?pvs=21), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+    - Set up a project repository for the tutorial
     - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
     - Next, modify the network in some way you find interesting.
-- Using the compute cluster
+- Using the compute cluster tutorial
 - Your second project: pRNN Tutorials
     - By the end of this, you should have trained a basic predictive RNN in a gridworld environment, and analyzed its spatial tuning properties
     - Next, modify or use the network in some way you find interesting. This could involve a new environment or behavioral policy, or changes to the network architecture, loss, or learning rule. Feel free to discuss some ideas with Dan.
