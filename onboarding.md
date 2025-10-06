@@ -17,7 +17,7 @@
 
 **First readings (first week)**:
 
-Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](https://github.com/LevensteinLab/Lab-Handbook/blob/3c06d99464c996181105f7f3c8c9669d80fa6aa5/Resources%20and%20How-Tos/recommended_reading.md). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
+Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/recommended_reading.md). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
 
 - https://www.sciencedirect.com/science/article/pii/S0896627320307054
 - https://www.nature.com/articles/s41593-019-0520-2
