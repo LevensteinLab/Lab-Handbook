@@ -24,6 +24,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 **Getting started (1-2 weeks)**:
 
 - Read about the [Lab Code and Software Practices](https://www.notion.so/Lab-Code-and-Software-Practices-2840350ea7a6800a8b1cd1d3e4ed05b3?pvs=21), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code
+    - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
     - Next, modify the network in some way you find interesting.
