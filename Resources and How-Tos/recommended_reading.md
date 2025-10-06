@@ -33,12 +33,12 @@
 
 **General - scientific process**
 
-https://web.stanford.edu/~fukamit/schwartz-2008.pdf
+- https://web.stanford.edu/~fukamit/schwartz-2008.pdf
 
-https://www.nature.com/articles/s41587-023-02074-2
+- https://www.nature.com/articles/s41587-023-02074-2
 
 **modeling and theory**
 
-https://pubmed.ncbi.nlm.nih.gov/39257366/
+- https://pubmed.ncbi.nlm.nih.gov/39257366/
 
-https://www.jstor.org/stable/184253
+- https://www.jstor.org/stable/184253
