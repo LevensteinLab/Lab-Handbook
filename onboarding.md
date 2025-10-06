@@ -13,7 +13,7 @@
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab)
     - Basic Github tutorial - make your github account, learn to make a PR.
     - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now.
-- Join [Mailing lists/groups at Yale](https://www.notion.so/Mailing-lists-groups-at-Yale-2620350ea7a680a1a329e025a8dad6ba?pvs=21)
+- Join [Mailing lists/groups at Yale](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/mailing_lists.md)
 
 **First readings (first week)**:
 
