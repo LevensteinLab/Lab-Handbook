@@ -1,17 +1,40 @@
 *This page delineates the onboarding processes. Please try to follow it step by step. If/when you find steps that are out of date, that are poorly described, or that you think should be added to the process, please update the Lab Handbook. You should have made at least one change by the time you complete onboarding (if you don’t know how to do that, you’ll learn!), and please follow this practice whenever using the lab handbook.*
 
+**Important Emails to Look For**
+- Appointment Confirmation, from AutomationManager@brassring.com
+    - Outlines position, job responsibilities, compensation, funding sources, term length.
+- Welcome E-mail, from Jennifer Coughlin
+    - Access to NetID, your Yale email, and Workday for trainings/benefits
+
+**Before your first day**
+- Make sure to bring documents that prove work authorization and identity. You will need this for your I-9 appointment
+
 **Your first day**
-- Get Yale netID/email (note: this will take about 24 hours)
+- Get Yale NetID/email (note: this will take about 24 hours)
+    - Your NetID is a unique identifier for you in the system, and can also be used to log into the private *YaleSecure* WiFi network.
+    - Emails typically follow `first.last@yale.edu`; you may need to wait for 20 minutes or more after your netID activation to access your email.
+- Set up multifactor authentication (MFA)
+    - Usually done through Duo, which you will need to accesss your email.
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Get Yale ID card
+    - [Multiple offices](https://idcenter.yale.edu/id-center-hours) are available to get an ID card printed. Note the hours!
+        - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
+        - Medical School ID Center, 333 Cedar St (**M-Th, 8am-12pm**) for walk-ins
     - Get 100 College/WTI card access (note: it will take about 24 hours for your card to gain access)
+        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; this is done through Dan and/or Jenn.
 - Workday stuff
-    - Sign up for Health insurance (and please see the lab handbook section on [Health, wellness, and work-life balance](https://github.com/LevensteinLab/Lab-Handbook/blob/5505c9fd8f9a11e7386e4d8602adf6c8384fb48c/Lab%20policies%2C%20practices%20and%20expectations/health_wellness.md)
+    - ***Complete your I-9***. It is a federal requirement that the I-9 form is submitted by three business days of your start date.
+        - Bring the [right documents](https://your.yale.edu/working-at-yale/new-employee-information/important-actions-to-take/submitting-your-i-9-form)!
+        - The main office where you can get an appointment is 221 Whitney Avenue 
+    - Sign up for Health insurance and please see the lab handbook section on [Health, wellness, and work-life balance](https://github.com/LevensteinLab/Lab-Handbook/blob/5505c9fd8f9a11e7386e4d8602adf6c8384fb48c/Lab%20policies%2C%20practices%20and%20expectations/health_wellness.md)
+    - Complete the required training courses with [Workday Learning](https://www.myworkday.com/yale/learning/)
+        - Trainings may take multiple hours.
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](https://github.com/LevensteinLab/Lab-Handbook/blob/63873f8629f62d8472b5a661a51d16be5829107d/Lab%20policies%2C%20practices%20and%20expectations/hours_remote_vacation.md)
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - Basic Github tutorial - make your github account, learn to make a PR.
     - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now.
 - Join [Mailing lists/groups at Yale](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/mailing_lists.md)
+- Sign up for an orientation. These are available for both Postdocs and Postgrads.
 
 **First readings (first week)**:
 
