@@ -8,5 +8,5 @@ Wu Tsai Institute, Center for Neurocomputation and Machine Intelligence
 | Name | Role | Email | Phone Number |
 | ---- | ---- | -----| -----------|
 | Daniel Levenstein | Primary Investigator | daniel.levenstein@yale.edu | XXX XXX XXXX |
-| Andrea Cumpelik-Bamford | Postdoctoral Researcher | acumpelik@gmail.com | XXX XXX XXXX |
+| Andrea Cumpelik | Postdoctoral Researcher | andrea.cumpelik@yale.edu | XXX XXX XXXX |
 | Viggy Vanchinathan | Postgraduate Associate | vignesh.vanchinathan@yale.edu | XXX XXX XXXX|
