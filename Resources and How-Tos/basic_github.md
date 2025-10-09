@@ -21,6 +21,6 @@ This `Lab-Handbook` allows you to make your own changes and push them to be inte
 5. `git commit -m MESSAGE` (replace the message with a one-sentence description of what you changed)
 6. `git push origin BRANCH_NAME`
 7. Navigate to the `Lab-Handbook` GitHub repository
-8. You should see a yellow notification bar that indicates your branch is "ahead" of the main repository
+8. You may see a yellow notification bar that indicates your branch is "ahead" of the main repository.
 9. Submit a pull request to integrate the changes into the final repository
 10. Dan will approve it
