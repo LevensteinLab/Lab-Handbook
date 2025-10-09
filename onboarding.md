@@ -32,6 +32,7 @@
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](https://github.com/LevensteinLab/Lab-Handbook/blob/63873f8629f62d8472b5a661a51d16be5829107d/Lab%20policies%2C%20practices%20and%20expectations/hours_remote_vacation.md)
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - Basic Github tutorial - make your github account, learn to make a PR.
+    - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
     - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now.
 - Join [Mailing lists/groups at Yale](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/mailing_lists.md)
 - Sign up for an orientation. These are available for both Postdocs and Postgrads.
