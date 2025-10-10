@@ -12,7 +12,6 @@
     - Emails typically follow `first.last@yale.edu`; you may need to wait for 20 minutes or more after your netID activation to access your email.
 - Set up multifactor authentication (MFA)
     - Usually done through Duo, which you will need to accesss your email.
-- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Get Yale ID card
     - [Multiple offices](https://idcenter.yale.edu/id-center-hours) are available to get an ID card printed. Note the hours!
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
@@ -24,10 +23,6 @@
     - The Wu Tsai Institute is located on the 11th floor at 100 College Street. The building is owned by Alexion Pharmaceuticals (owned by AstraZeneca)
     - We are located in the Center for Neurocomputation and Machine Intelligence, to the right side if you are facing towards the "Yale Wu Tsai Institute" sign.
 - Sign up for an orientation. These are available for both Postdocs and Postgrads.
-
-
-**Your first day**
-
 - Workday stuff
     - ***Complete your I-9***. It is a federal requirement that the I-9 form is submitted by three business days of your start date.
         - Bring the [right documents](https://your.yale.edu/working-at-yale/new-employee-information/important-actions-to-take/submitting-your-i-9-form)!
@@ -35,7 +30,12 @@
     - Sign up for Health insurance and please see the lab handbook section on [Health, wellness, and work-life balance](https://github.com/LevensteinLab/Lab-Handbook/blob/5505c9fd8f9a11e7386e4d8602adf6c8384fb48c/Lab%20policies%2C%20practices%20and%20expectations/health_wellness.md)
     - Complete the required training courses with [Workday Learning](https://www.myworkday.com/yale/learning/)
         - Trainings may take multiple hours, and you may want to do this over multiple days.
+
+
+**Your first day**
+- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](https://github.com/LevensteinLab/Lab-Handbook/blob/63873f8629f62d8472b5a661a51d16be5829107d/Lab%20policies%2C%20practices%20and%20expectations/hours_remote_vacation.md)
+- Schedule your regular 1-on-1 meeting with Dan.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - Basic Github tutorial - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
