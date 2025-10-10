@@ -27,24 +27,24 @@
     - ***Complete your I-9***. It is a federal requirement that the I-9 form is submitted by three business days of your start date.
         - Bring the [right documents](https://your.yale.edu/working-at-yale/new-employee-information/important-actions-to-take/submitting-your-i-9-form)!
         - The main office where you can get an appointment is 221 Whitney Avenue 
-    - Sign up for Health insurance and please see the lab handbook section on [Health, wellness, and work-life balance](https://github.com/LevensteinLab/Lab-Handbook/blob/5505c9fd8f9a11e7386e4d8602adf6c8384fb48c/Lab%20policies%2C%20practices%20and%20expectations/health_wellness.md)
+    - Sign up for Health insurance and please see the lab handbook section on [Health, wellness, and work-life balance](Lab%20policies%2C%20practices%2C%20and%20expectations/health_wellness.md)
     - Complete the required training courses with [Workday Learning](https://www.myworkday.com/yale/learning/)
         - Trainings may take multiple hours, and you may want to do this over multiple days.
 
 
 **Your first day**
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
-- Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](https://github.com/LevensteinLab/Lab-Handbook/blob/63873f8629f62d8472b5a661a51d16be5829107d/Lab%20policies%2C%20practices%20and%20expectations/hours_remote_vacation.md)
+- Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](Lab%20policies%2C%20practices%2C%20and%20expectations/hours_remote_vacation.md)
 - Schedule your regular 1-on-1 meeting with Dan.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - Basic Github tutorial - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
     - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now.
-- Join [Mailing lists/groups at Yale](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/mailing_lists.md)
+- Join [Mailing lists/groups at Yale](Resources%20and%20How-Tos/mailing_lists.md)
 
 **First readings (first week)**:
 
-Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](https://github.com/LevensteinLab/Lab-Handbook/blob/d3ff2d223686909fc64a45bb4f1cedbd99de0ee7/Resources%20and%20How-Tos/recommended_reading.md). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
+Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](Resources%20and%20How-Tos/recommended_reading.md). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
 
 - https://www.sciencedirect.com/science/article/pii/S0896627320307054
 - https://www.nature.com/articles/s41593-019-0520-2
@@ -52,7 +52,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started (1-2 weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://github.com/LevensteinLab/Lab-Handbook/blob/f7c4fdb086beb1f8b19ad53eae9e94680c36b397/Lab%20policies%2C%20practices%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
+- Read about the [Lab Code and Software Practices](Lab%20policies%2C%20practices%2C%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     - Set up a project repository for the tutorial
