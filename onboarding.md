@@ -36,10 +36,11 @@
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](Lab%20policies%2C%20practices%2C%20and%20expectations/hours_remote_vacation.md)
 - Schedule your regular 1-on-1 meeting with Dan.
+- Send Dan your headshot and bio for the lab website.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
-    - Basic Github tutorial - make your github account, learn to make a PR.
+    - [Basic Github tutorial](Resources%20and%20How-Tos/basic_github.md) - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
-    - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now.
+    - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now. Add your contact information to [contact.md](contact.md)
 - Join [Mailing lists/groups at Yale](Resources%20and%20How-Tos/mailing_lists.md)
 
 **First readings (first week)**:
