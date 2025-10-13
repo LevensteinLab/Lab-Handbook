@@ -11,11 +11,14 @@ Mailing lists/groups you may wish to sign up for/get added to, and how. Click th
 4. Research in Progress (RIP) mailing list - link unknown @Dan
 5. *[WTI NeuroAI Journal Club mailing list](https://mailman.yale.edu/mailman/listinfo/wti-neuro-ai-jc)
 6. [APplied PHilosophy In NEuroscience (APHINE)](https://yaleconnect.yale.edu/aphine/home/)
-7. Quantitative Biology (QBio) talks - email `qbio@yale.edu` to be added to the listserv
-8. Foundations of Data Science Institute talks - email `fds@yale.edu` to be added to the list serve
+7. [Quantitative Biology (QBio) talks](https://mailman.yale.edu/mailman/listinfo/qbio)
+8. Foundations of Data Science Institute talks - visit `subscribe.yale.edu` and find "FDS Announcements" under the "Research Administration" category
 
+
+It's also possible to check out all `mailman@yale` links or manage your subscriptions with the links below:
 
 9. [All mailman.yale.edu mailing lists](https://mailman.yale.edu/mailman/listinfo/)
+10. [Manage subscriptions](https://subscribe.yale.edu/) (*This doesn't seem to manage ALL subscriptions but it does show many*)
 
 
 ### Slack Workspaces
