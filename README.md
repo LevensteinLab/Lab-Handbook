@@ -28,6 +28,7 @@ So you want to join the lab? - prospective members start here
     - `adobe.md`: Instructions on how to get access to Adobe suite tools (e.g. for figures)
     - `basic_github.md`: Some helpful pointers on how to use git for version control and also how to make contributions to this repository.
     - `gen_ai.md`: Tips on how to use generative AI tools responsibly and ethically.
+    - `hpc.md`: How to get access to the Misha HPC cluster.
     - `mailing_lists.md`: Helpful mailing lists to engage in the WTI research community (journal clubs etc.)
     - `mental_health.md`: Resources and support options for managing mental health
     - `printers.md`: Tutorial on how to connect to lab printer, as well as links to drivers & docs
