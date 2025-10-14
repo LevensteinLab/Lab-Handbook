@@ -9,9 +9,9 @@ There has been immense progress in the last 2-3 years regarding the use of langu
 5. [Should neuroscientists 'vibe code'?(Benjamin Dichter, The Transmitter)](https://www.thetransmitter.org/craft-and-careers/should-neuroscientists-vibe-code/)
 
 ### GitHub Copilot Access
-As university-affiliated researchers, we may have access to AI completion tools such as GitHub Copilot. Here are the steps to get access:
+As university-affiliated researchers, we may have access to AI completion tools such as GitHub Copilot. The Pro tier provides a 30-day free trial for researchers/educators. Here are the steps to get access:
 1. Visit the [GitHub documentation](https://docs.github.com/en/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro) on Copilot Pro access.
 2. Click on "Apply to GitHub Education as a teacher".
 3. Navigate to Education Benefits settings
 4. Complete the form and submit. You may need to verify that you have an `@yale.edu` email address and provide a picture of your ID card. The application will be approved by GitHub admins.
-5. TODO: @viggy fill out when approved... 
+5. You should see a coupon for GitHub Copilot Pro populate in 48-72 hours. This provides access for 30 days.
