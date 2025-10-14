@@ -5,7 +5,7 @@ Maintaining good code is essential to the efficient functioning of the lab. Best
 
 Here's how we may format our code as a lab:
 
-Repository Types
+### Repository Types
 
 1. **Project** (“Lab Notebook”): A repository for managing the day-to-day progress of a research project — analyses in progress, exploratory modeling, notes, and experiment logs. A sample "cookie cutter" project repository can be found at (**TODO: fill out**)
 * *Ownership*: You (the project lead).
@@ -23,3 +23,25 @@ Repository Types
 * *Ownership*: The lab organization (since publications represent lab outputs).
 * *When to create*: As you prepare to submit a manuscript, work with Viggy to set up this repository.
 * *Structure*: Should depend on the relevant package (don’t reimplement analysis code). Pin specific package versions (e.g., via requirements.txt, pyproject.toml, or git submodules) to ensure reproducibility. Include figure-generation scripts, processed data, and notebooks.
+
+### Conventions
+Patrick Mineault's code handbook above is a must-read before you start coding. It reviews the best ways to set up your project, to maintain clarity and cleanliness, to test your code, and to document your code as well. The handbook is the best way to learn these conventions, especially when it comes to efficiency and testing, which rely on great examples. However a few helpful tips to get you started in the right direction
+
+- Use `git` often, often more than you think you should. See `Resources and How-Tos/basic_github.md` for additional information.
+- Setup your repository correctly, from the beginning.
+    - Mineault's base directory structure works really well to keep the inputs and outputs of your code separate:
+        - `data` folder: raw input data
+        - `docs` folder: documentation, kept separate for later publishing
+        - `results` folder: code outputs, figures, tables, CSVs
+        - `scripts` folder: scripts for analysis like `.ipynb` notebooks
+        - `srcs` folder: reusable code that works at the base of all the scripts
+        - `tests` folder: unit tests
+    - This can be downloaded with the `true-neutral-cookiecutter`.
+- Maintain your environments. Packages you import may have dependences on other packages with specific versions, or perhaps even specific versions of python. Installing all packages into one environment will make it extremely difficult to move the code to another computer or user (i.e. it's less *portable*).
+    - We can use `conda` as a package manager and virtual environment manager for this.
+    - `conda` can be installed via [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main), which is a lighter-weight version of the original Anaconda Distribution of packages/python. This will allow you to use `conda` to make virtual environments and manage packages.
+    - Use a `.yml` file. These are special files that specify instructions on which packages comprise an environment. A different researcher using your code can automatically recreate your environment exactly as you have it by using this file, ensuring proper portability.
+- Maintain good style.
+    - This includes commenting, which should be done at the top of functions, classes, modules, files, etc. This helps both you and others understand code.
+    - Pythonic code can be confusing sometimes; you'll need to make the tradeoff between clarity and brevity.
+    - Download a [linter](https://docs.astral.sh/ruff/) (e.g. Ruff) to help you format your code.
