@@ -51,7 +51,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 - https://www.nature.com/articles/s41593-019-0520-2
 - https://www.nature.com/articles/s41583-023-00705-w
 
-**Getting started (1-2 weeks)**:
+**Getting started - ANNs path (1-2 weeks)**:
 
 - Read about the [Lab Code and Software Practices](Lab%20policies%2C%20practices%2C%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
@@ -63,3 +63,10 @@ Discuss with Dan your interests and potential first projects. In addition to any
 - Your second project: pRNN Tutorials
     - By the end of this, you should have trained a basic predictive RNN in a gridworld environment, and analyzed its spatial tuning properties
     - Next, modify or use the network in some way you find interesting. This could involve a new environment or behavioral policy, or changes to the network architecture, loss, or learning rule. Feel free to discuss some ideas with Dan.
+ 
+  **Getting started - Data analysis path**:
+
+- Read about the [Lab Code and Software Practices](Lab%20policies%2C%20practices%2C%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
+    - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
+- Discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html)
+
