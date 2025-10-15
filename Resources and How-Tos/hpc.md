@@ -30,6 +30,82 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 7. Submit jobs!
 8. Type `exit` to close the connection.
 
+
+### About the HPC
+1. Consists of multiple groups of computers called **nodes**.
+    1. Login node is shared between all users; handles all user logins and is usually excluded from running actual code jobs
+    2. Compute nodes which are the majority of all the computers in the HPC; where the tasks are performed
+        1. Can run both *interactive* and *batch* jobs on compute notes. Interactive jobs are processes in which you can interactively run programs on the computer, useful for debugging and/or coding. Batch jobs are non-interactive jobs that are run by the node and returned back to you. These can be parallelized, and will also run regardless of whether you are logged in or not.
+        2. You can have at most 4 interactive sessions at once.
+    3. Transfer nodes; used for transferring files, accessed via `ssh transfer`
+2. HPC has multiple "partitions", which are used for different purposes. There are also special use nodes.
+    1. `devel` : default for interactive jobs
+    2. `day` : default for batch jobs
+    3. `week`: default for long jobs (>24 hours)
+    4. `gpu`: nodes with GPU access
+    4. `bigmem`: nodes for jobs with large RAM/memory requirements
+    5. `mpi`: for highly-parallelized code
+    6. `pi_NAME`: PI and lab specific nodes available for purchace from YCPC
+
+### Cheat Sheet
+
+* Interactive jobs:
+    * `salloc` to submit interactive job. Flags:
+        * `-p` or `--partition=` (default `devel`/interactive)
+        * `-t` or `--time=` (DD-HH:MM:SS or DD-HH time limit)
+        * `--mem-per-cpu=` (default 5gb per cpu)
+    * `module load` to load common software
+        * also `module list` to list available software
+        * `module purge` to remove all currently loaded software
+
+Example code:
+
+```sh
+salloc -t 1:00:00
+module load miniconda
+conda create -n env_name python=3.9 jupyter pandas
+conda activate env_name
+conda install pkg1 pkg2
+
+module load miniconda 
+conda activate env_name
+```
+
+* Batch jobs:
+    * `sbatch` to submit batch job. Flags:
+        * `-j` or `--job-name=` (job name)
+        * `-o` or `--output=` (output file name)
+        * `--mail-user` (email address to receive alerts about job completions, default: Yale address)
+        * `--mail-type=ALL` (receive email notifs at beginning and end of job)
+    * `squeue --me` (get status of all your submitted jobs)
+    * `seff JOBID` (get job stats when done e.g. CPU usage, time run)
+    * `scancel JOBID` (cancel job)
+    * `htop -u NETID` (view all current processes under your name)
+
+* Misc commands:
+    * ` getquota` (see remaining storage)
+    * `dsq` for large numbers of identical jobs
+
+Example code:
+
+```bash 
+#!/bin/bash
+
+#SBATCH -J example_job
+#SBATCH -p dat
+#SBATCH -t 12:00:00
+#SBATCH --mail-type=ALL
+
+module purge
+module load miniconda
+conda activate my_env
+
+python my_python.py
+```
+
+
+
+
 ### Reference:
 * [Introduction to HPC Clusters (YouTube Video)](https://www.youtube.com/watch?v=SaiXaC0jRjE&t=2s) (1:16 hr workshop video going over SLURM and how to log-in)
 * [Getting Started page](https://docs.ycrc.yale.edu/clusters-at-yale/)
