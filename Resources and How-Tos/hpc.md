@@ -103,7 +103,21 @@ conda activate my_env
 python my_python.py
 ```
 
-
+### Example Use Case: Cloning Remote Repository
+At first, attempting to clone a repository in the standard way (e.g. `git clone https://github.com/LevensteinLab/Lab-Handbook.git`) may not work. This is because GitHub doesn't know how to handle a request from a remote computer. You must first authenticate yourself. We can repeat the same process we used to authenticate ourselves for the cluster, but for GitHub, which offers the ability to add SSH keys.
+1. While logged into the cluster, again run `ssh-keygen`. Click enter to accept the default directory for where the keys will be stored.
+2. Choose a passphrase. You will need to remember this, as it provides access to your private key.
+3. Navigate to that directory and open the public key. This may look something like:
+    1. `cd /gpfs/radev/home/vv266/.ssh/` followed by 
+    2. `cat id_ed25519.pub`
+4. Copy that text and open your GitHub profile.
+5. Navigate to **Settings** > **SSH and GPG keys** >  **New SSH key**. Then paste your public key into the box.
+6. Return to the HPC and type `ssh -T git@github.com`. 
+    1. After you type in your passphrase, you should see a message like `Hi vviggyy! You've successfully authenticated, but GitHub does not provide shell access.`
+7. You should now be able to clone repositories into the HPC environment.
+    1. When you want to do so, visit the repository website, click the green `<> Code` button, and tap "SSH" (NOT the HTTPS button!)
+    2. Use this URL when cloning e.g. `git clone git@github.com:LevensteinLab/Lab-Handbook.git`
+8. Set up a conda environment like above to run it!
 
 
 ### Reference:
