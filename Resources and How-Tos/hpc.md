@@ -13,7 +13,7 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 4. (*First time login only*) Generate your public and private ssh keys. These keys are used to authenticate you during the remote login (i.e. they tell the cluster that you're you.). Keep the private key a secret!
     1. Instructions on how to do this can be found [here](https://docs.ycrc.yale.edu/clusters-at-yale/access/ssh/).
     2. Note: the example in the documentation uses the *RSA* encryption scheme, but using the `ssh-keygen` command on Macs without any additional argument will use the *Ed25519* encryption scheme. The key still works and will be stored in something like `id_ed25519.pub`.
-        1. *Sidebar from Viggy: If you're interested in math, I'd highly recommend reading up on RSA. The RSA public/private key method works beause it's easy to multiple two large prime numbers together, but extremely hard to factor that product back into those primes!*
+        1. *Sidebar from Viggy: If you're interested in math, I'd highly recommend reading up on RSA. The RSA public/private key method works beause it's easy to multiply two large prime numbers together, but extremely hard to factor that product back into those primes!*
 5. (*First time login only*) Upload your *public* key to the [SSH Key Uploader](https://sshkeys.ycrc.yale.edu/cgi-bin/sshkeys.py). This allows the cluster to associate it with your netID, which you use to sign in.
 6. Login to the cluster.
     1. Use the Terminal:
