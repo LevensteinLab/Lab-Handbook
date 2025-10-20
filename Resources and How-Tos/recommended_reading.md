@@ -27,7 +27,7 @@
 - https://www.nature.com/articles/s41583-023-00705-w
 - https://www.nature.com/articles/s41593-019-0520-2
 
-**Replay in brains and ANNs*
+**Replay in brains and ANNs**
 - https://www.cell.com/trends/neurosciences/abstract/S0166-2236(21)00144-2
 - https://direct.mit.edu/neco/article-abstract/33/11/2908/107071/Replay-in-Deep-Learning-Current-Approaches-and
 
