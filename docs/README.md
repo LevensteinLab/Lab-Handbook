@@ -1,6 +1,5 @@
 # Lab-Handbook
-The lab handbook of the Levenstein Lab for NeuroAI and Dynamics at Yale University
-
+The lab handbook of the Levenstein Lab for NeuroAI and Dynamics at Yale University. Please note that this is an in-development and "living document", which means that it will evolve as needed to fit the lab as it grows and develops. Furthermore, it means that as a lab member, you're encouraged to contribute and discuss its contents with Dan and in the #lab-handbook channel on slack.  
 
 **About the lab**
 
@@ -16,27 +15,3 @@ In addition to our work on sleep, the lab works broadly at the interface of theo
 So you want to join the lab? - prospective members start here
 
 [Onboarding](https://github.com/LevensteinLab/Lab-Handbook/blob/main/onboarding.md) - new members start here
-
-
-**Table of Contents**
-
-- `README.md`: Landing page.
-- `contact.md`: Names, positions, emails for current lab members.
-- `meetings.md`: Specified schedule for regular meetings 
-- `onboarding.md`: Relevant information for your first day through your first couple of weeks. 
-- `Resources and How-Tos`
-    - `adobe.md`: Instructions on how to get access to Adobe suite tools (e.g. for figures)
-    - `basic_github.md`: Some helpful pointers on how to use git for version control and also how to make contributions to this repository.
-    - `gen_ai.md`: Tips on how to use generative AI tools responsibly and ethically.
-    - `hpc.md`: How to get access to the Misha HPC cluster.
-    - `mailing_lists.md`: Helpful mailing lists to engage in the WTI research community (journal clubs etc.)
-    - `mental_health.md`: Resources and support options for managing mental health
-    - `printers.md`: Tutorial on how to connect to lab printer, as well as links to drivers & docs
-    - `recommended_reading.md`: Links to relevant publications on topics of interest to the lab (e.g. sleep, memory consolidation, neuroAI)
-    - `science_general.md1`: How to do good science (in general).
-    - `travel.md`: Information on how to arrange travel with Yale.
-- `Lab policies, practices, and expectations`
-    - `code_software.md`: Link to helpful resources on good coding conventions
-    - `health_wellness.md`: Tips on how to manage work-life balance and health while doing research
-    - `hours_remote_vacation.md`: Policies on remote work, working hours, vacations, and holidays
-
