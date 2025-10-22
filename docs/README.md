@@ -1,5 +1,6 @@
 # Lab-Handbook
-The lab handbook of the Levenstein Lab for NeuroAI and Dynamics at Yale University. Please note that this is an in-development and "living document", which means that it will evolve as needed to fit the lab as it grows and develops. Furthermore, it means that as a lab member, you're encouraged to contribute and discuss its contents with Dan and in the `#lab-handbook` channel on slack.  
+The [lab handbook](https://levensteinlab.github.io/Lab-Handbook/) of the Levenstein Lab for NeuroAI and Dynamics at Yale University. 
+Please note that this is an in-development and "living document", which means that it will evolve as needed to fit the lab as it grows and develops. Furthermore, it means that as a lab member, you're encouraged to contribute and discuss its contents with Dan and in the `#lab-handbook` channel on slack.  
 
 **About the lab**
 
