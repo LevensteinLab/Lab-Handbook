@@ -2,7 +2,7 @@
 
 As part of computational research, we will need to dispatch jobs to high-performance computing (HPC) clusters. Access to these clusters gives us stronger power for computationally-intensive tasks like training models. Running the same process on your local machine may take *much* more time.
 
-To get started visit this page for [some info](https://docs.ycrc.yale.edu/clusters/misha/#access-the-cluster) about the HPC prepared by the Yale Center for Research Computing (YCRC) specifically for the Wu Tsai Institute.
+To get started visit this page for [some info](https://docs.ycrc.yale.edu/clusters/misha/#access-the-cluster) about the HPC prepared by the Yale Center for Research Computing (YCRC) specifically for the Wu Tsai Institute. To use the cluster off-campus, you will need to use a VPN, please see the `vpn.md` file for instructions.
 
 ### Instructions
 1. Fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfLghL1gSHRkIQj73zPzvLCJ0sojm9aUHZLQGBD_auD054gqA/viewform?usp=send_form) to access the cluster, noting Dan as the PI from which to get access. You should get access in ~48 hours. 
