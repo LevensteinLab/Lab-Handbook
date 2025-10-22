@@ -10,11 +10,13 @@ It's important that you become familiar with how to use Git, as it will allow yo
 - how Github integrates with repositories and the command line
 
 Here are some basic tutorials you may want to follow:
+
 - [GitHub Hello World tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world) *(highly recommended; concise but also text-heavy)*
 - [GitHub Desktop Tutorial](https://docs.github.com/en/desktop) *helpful to get started with a graphical user interface (GUI) rather than command line, if you're more comfortable with that. There is also a graphical interface on VSCode.*
 - [Learn Git Branching (JS Applet)](https://learngitbranching.js.org/) *(optional; interactive and visual but perhaps too deep)*
 
 This `Lab-Handbook` allows you to make your own changes and push them to be integrated into the content. To do this, clone the repository to your local machine, make your changes, then add, commit and push:
+
 1. `git clone https://github.com/LevensteinLab/Lab-Handbook.git` 
 2. `git checkout -b BRANCH_NAME` (this creates a new branch called `BRANCH_NAME` and switches to it)
 3. Make changes
