@@ -1,12 +1,14 @@
 *This page delineates the onboarding processes. Please try to follow it step by step. If/when you find steps that are out of date, that are poorly described, or that you think should be added to the process, please update the Lab Handbook. You should have made at least one change by the time you complete onboarding (if you don’t know how to do that, you’ll learn!), and please follow this practice whenever using the lab handbook.*
 
 **Important Emails to Look For**
+
 - Appointment Confirmation, from AutomationManager@brassring.com
     - Outlines position, job responsibilities, compensation, funding sources, term length.
 - Welcome E-mail, from Jennifer Coughlin
     - Access to NetID, your Yale email, and Workday for trainings/benefits
 
 **New to Yale?**
+
 - Get Yale NetID/email (note: this will take about 24 hours)
     - Your NetID is a unique identifier for you in the system, and can also be used to log into the private *YaleSecure* WiFi network.
     - Emails typically follow `first.last@yale.edu`; you may need to wait for 20 minutes or more after your netID activation to access your email.
@@ -33,6 +35,7 @@
 
 
 **Your first day**
+
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](Lab%20policies%2C%20practices%2C%20and%20expectations/hours_remote_vacation.md)
 - Schedule your regular 1-on-1 meeting with Dan.

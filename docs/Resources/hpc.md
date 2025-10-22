@@ -105,6 +105,7 @@ python my_python.py
 
 ### Example Use Case: Cloning Remote Repository
 At first, attempting to clone a repository in the standard way (e.g. `git clone https://github.com/LevensteinLab/Lab-Handbook.git`) may not work. This is because GitHub doesn't know how to handle a request from a remote computer. You must first authenticate yourself. We can repeat the same process we used to authenticate ourselves for the cluster, but for GitHub, which offers the ability to add SSH keys.
+
 1. While logged into the cluster, again run `ssh-keygen`. Click enter to accept the default directory for where the keys will be stored.
 2. Choose a passphrase. You will need to remember this, as it provides access to your private key.
 3. Navigate to that directory and open the public key. This may look something like:
