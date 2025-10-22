@@ -29,7 +29,7 @@
     - ***Complete your I-9***. It is a federal requirement that the I-9 form is submitted by three business days of your start date.
         - Bring the [right documents](https://your.yale.edu/working-at-yale/new-employee-information/important-actions-to-take/submitting-your-i-9-form)!
         - The main office where you can get an appointment is 221 Whitney Avenue 
-    - Sign up for Health insurance and please see the lab handbook section on [Health, wellness, and work-life balance](Lab%20policies%2C%20practices%2C%20and%20expectations/health_wellness.md)
+    - Sign up for Health insurance and please see the lab handbook section on [health, wellness, and work-life balance](https://levensteinlab.github.io/Lab-Handbook/Policies/health_wellness/)
     - Complete the required training courses with [Workday Learning](https://www.myworkday.com/yale/learning/)
         - Trainings may take multiple hours, and you may want to do this over multiple days.
 
@@ -37,18 +37,18 @@
 **Your first day**
 
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
-- Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [Working hours, remote working, and vacation](Lab%20policies%2C%20practices%2C%20and%20expectations/hours_remote_vacation.md)
+- Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
 - Schedule your regular 1-on-1 meeting with Dan.
 - Send Dan your headshot and bio for the lab website.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
-    - [Basic Github tutorial](Resources%20and%20How-Tos/basic_github.md) - make your github account, learn to make a PR.
+    - [Basic Github tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
-    - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now. Add your contact information to [contact.md](contact.md)
-- Join [Mailing lists/groups at Yale](Resources%20and%20How-Tos/mailing_lists.md)
+    - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/)
+- Join [Mailing lists/groups at Yale](https://levensteinlab.github.io/Lab-Handbook/Resources/mailing_lists/)
 
 **First readings (first week)**:
 
-Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](Resources%20and%20How-Tos/recommended_reading.md). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
+Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](https://levensteinlab.github.io/Lab-Handbook/Resources/recommended_reading/). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
 
 - https://www.sciencedirect.com/science/article/pii/S0896627320307054
 - https://www.nature.com/articles/s41593-019-0520-2
@@ -56,7 +56,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started - ANNs path (1-2 weeks)**:
 
-- Read about the [Lab Code and Software Practices](Lab%20policies%2C%20practices%2C%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
+- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     - Set up a project repository for the tutorial
@@ -69,7 +69,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
  
   **Getting started - Data analysis path**:
 
-- Read about the [Lab Code and Software Practices](Lab%20policies%2C%20practices%2C%20and%20expectations/code_software.md), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
+- Read about the [software practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
     - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
 - Discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html)
 
