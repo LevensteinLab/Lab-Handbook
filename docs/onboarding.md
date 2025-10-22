@@ -43,7 +43,7 @@
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - [Basic Github tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
-    - Your first PR: Update the lab handbook to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/)
+    - Your first PR: [Update the lab handbook](https://github.com/LevensteinLab/Lab-Handbook) to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/)
 - Join [Mailing lists/groups at Yale](https://levensteinlab.github.io/Lab-Handbook/Resources/mailing_lists/)
 
 **First readings (first week)**:
