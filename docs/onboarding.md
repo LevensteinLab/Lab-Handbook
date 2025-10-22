@@ -17,7 +17,7 @@
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
         - Medical School ID Center, 333 Cedar St (**M-Th, 8am-12pm**) for walk-ins
     - Get 100 College/WTI card access (note: it will take about 24 hours for your card to gain access)
-        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; this is done through Dan and/or Jenn.
+        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; ideally email the WTI facilities manager, [Matt Milano](mailto:matthew.milano@yale.edu).
 - Familiarize yourself with campus, and how to get to 100 College Institute
     - Multiple areas of campus (Old Campus, Science Hill, etc)
     - The Wu Tsai Institute is located on the 11th floor at 100 College Street. The building is owned by Alexion Pharmaceuticals (owned by AstraZeneca)
