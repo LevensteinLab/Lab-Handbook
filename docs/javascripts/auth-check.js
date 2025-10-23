@@ -3,57 +3,42 @@ console.log('AUTHCHECK LOADED!');
 (function() {
   'use strict';
   
-  console.log("AUTH CHECK.JS RUNNNING");
-
-  // Configuration
-  const PROTECTED_PATHS = ['/protected/']; // Add your protected paths
-  const REQUIRED_ORG = 'LevensteinLab'; // Change this!
+  console.log('AUTH CHECK.JS RUNNING');
   
-  // Check if current page is protected
+  // Configuration
+  const PROTECTED_PATHS = ['/protected/']; 
+  const REQUIRED_ORG = 'your-github-org-name'; 
+  
   function isProtectedPage() {
     return PROTECTED_PATHS.some(path => window.location.pathname.startsWith(path));
   }
   
-  // Check authentication and org membership
   function checkAuth() {
+    console.log('checkAuth called');
+    console.log('Current path:', window.location.pathname);
+    console.log('Is protected:', isProtectedPage());
+    
     if (!isProtectedPage()) {
-      return; // Public page, no check needed
+      console.log('Public page - no auth needed');
+      return;
     }
     
     const user = netlifyIdentity.currentUser();
+    console.log('Current user:', user);
     
     if (!user) {
-      // Not logged in - show login modal
+      console.log('No user - showing login');
       showAccessDenied('Please log in to view this content.');
       netlifyIdentity.open();
       return;
     }
     
-    // Check GitHub organization membership
-    checkOrgMembership(user);
+    console.log('User logged in - showing content');
+    document.body.style.display = 'block';
   }
   
-  // Verify user is in required GitHub org
-  async function checkOrgMembership(user) {
-    try {
-      // Call our Netlify function to verify org membership
-      const response = await fetch('/.netlify/functions/check-org-membership');
-      const data = await response.json();
-      
-      if (!data.isMember) {
-        showAccessDenied(`You must be a member of the ${REQUIRED_ORG} organization to view this content.`);
-      } else {
-        // User is authenticated and authorized - show content
-        document.body.style.display = 'block';
-      }
-    } catch (error) {
-      console.error('Error checking org membership:', error);
-      showAccessDenied('Error verifying access. Please try again.');
-    }
-  }
-  
-  // Show access denied message
   function showAccessDenied(message) {
+    document.body.style.display = 'block';
     document.body.innerHTML = `
       <div style="display: flex; align-items: center; justify-content: center; height: 100vh; font-family: system-ui;">
         <div style="text-align: center; max-width: 500px; padding: 2rem;">
@@ -76,19 +61,33 @@ console.log('AUTHCHECK LOADED!');
   
   // Hide content initially on protected pages
   if (isProtectedPage()) {
+    console.log('Protected page - hiding content');
     document.body.style.display = 'none';
   }
   
-  // Initialize when Netlify Identity loads
+  // Check if Identity is already initialized
   if (window.netlifyIdentity) {
-    netlifyIdentity.on('init', checkAuth);
+    console.log('Netlify Identity found');
+    
+    // Call checkAuth immediately in case init already happened
+    checkAuth();
+    
+    // Also listen for future events
+    netlifyIdentity.on('init', user => {
+      console.log('Init event fired, user:', user);
+      checkAuth();
+    });
+    
     netlifyIdentity.on('login', () => {
       console.log('User logged in');
       window.location.reload();
     });
+    
     netlifyIdentity.on('logout', () => {
       console.log('User logged out');
       window.location.href = '/';
     });
+  } else {
+    console.error('Netlify Identity not found!');
   }
 })();
