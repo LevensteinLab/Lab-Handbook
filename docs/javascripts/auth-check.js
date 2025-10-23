@@ -1,6 +1,10 @@
+console.log('AUTHCHECK LOADED!');
+
 (function() {
   'use strict';
   
+  console.log("AUTH CHECK.JS RUNNNING");
+
   // Configuration
   const PROTECTED_PATHS = ['/protected/']; // Add your protected paths
   const REQUIRED_ORG = 'LevensteinLab'; // Change this!
