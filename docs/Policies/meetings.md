@@ -18,8 +18,8 @@ it prompts you to think of where you’re at and where you should go next,
 and you'll have many slides to start from when you have to present your work (e.g. in lab meeting). 
 Over time, you become quite good at quickly putting together and presenting effective slide presentations.
 
-Of course, we’re not always able to make significant progress each week and have new results for each meeting - 
-sometimes we’ve been productive, but just thinking. Sometimes life has happened and we haven’t made any progress on our projects. 
+Of course, we’re not always able to have new results for each meeting - 
+sometimes we’ve been productive, but just thinking; sometimes life has happened and we haven’t made any progress on our projects. 
 That’s ok, and I’m always happy to chat about anything, either why you think things aren’t working, or just generally how things are going. 
 Regardless, it’s good to have the meeting on the calendar and we can always skip a week or have a quick check in if there’s not much to discuss. 
 However, I would encourage you to not get in the habit of pushing back meetings, as a common failure mode of a PhD is a spiral 
