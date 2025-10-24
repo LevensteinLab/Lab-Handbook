@@ -61,10 +61,12 @@ console.log('AUTHCHECK LOADED!');
   
   // Hide content initially on protected pages
   if (isProtectedPage()) {
-    console.log('Protected page - hiding content');
-    document.body.style.display = 'none';
+  document.body.style.display = 'none';
+  netlifyIdentity.on('init', checkAuth);
+  } else {
+    document.body.style.display = 'block';
   }
-  
+
   // Check if Identity is already initialized
   if (window.netlifyIdentity) {
     console.log('Netlify Identity found');
@@ -80,7 +82,7 @@ console.log('AUTHCHECK LOADED!');
     
     netlifyIdentity.on('login', () => {
       console.log('User logged in');
-      window.location.reload();
+      document.body.style.display = 'block';
     });
     
     netlifyIdentity.on('logout', () => {
