@@ -20,7 +20,7 @@ Over time, you become quite good at quickly putting together and presenting effe
 
 Of course, we’re not always able to have new results for each meeting - 
 sometimes we’ve been productive, but just thinking; sometimes life has happened and we haven’t made any progress on our projects. 
-That’s ok, and I’m always happy to chat about anything, either why you think things aren’t working, or just generally how things are going. 
+That’s ok, and I’m always happy to chat about anything, either why you think things aren’t working, some ideas you've been thinking about, or just generally how things are going. 
 Regardless, it’s good to have the meeting on the calendar and we can always skip a week or have a quick check in if there’s not much to discuss. 
 However, I would encourage you to not get in the habit of pushing back meetings, as a common failure mode of a PhD is a spiral 
 in which you avoid meeting with your advisor because you don’t have results, putting pressure on yourself to have more results for the next meeting, 
