@@ -25,9 +25,10 @@ nav:
 
 # Your existing config...
 extra_javascript:
-  - https://identity.netlify.com/v1/netlify-identity-widget.js
+  - netlify-identity-widget.js
   - javascripts/auth-check.js
 
 # If using Material theme, add custom_dir for overrides
 theme:
   name: material  # or your theme
+  custom_dir: overrides
