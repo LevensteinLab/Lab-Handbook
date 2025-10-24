@@ -1,3 +1,5 @@
+### 1-on-1 Meetings
+
 All lab members should have a regularly scheduled 1-on-1 meeting with me. 
 This can be weekly or bi-weekly, and will often be used to discuss results and next steps in your project. 
 
@@ -32,3 +34,8 @@ Please note that 1-on-1 meetings are not the only time I have for you.
 I am always happy to discuss results: positive or negative, challenges you’re facing, 
 or anything else you want to talk about related to your project, career, or science in general. 
 You can always message me on slack, and if my door is open, please come in!
+
+
+### Journal Club
+
+format: everyone read the paper, and we're each assigned a figure or two to walk us through. this way we avoid the trap of one person reading/presenting the paper and no one else. The idea is that we all read the paper, and you come ready to walk us through your figure (no slides needed), answer questions people have about the figure, and ask questions of the group re: things that you didn’t understand. If there are supplemental figures/methods associated with your figure you should be familiar with those too.
