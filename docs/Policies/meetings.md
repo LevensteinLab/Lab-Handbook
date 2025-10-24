@@ -38,10 +38,9 @@ You can always message me on slack, and if my door is open, please come in!
 
 ### Journal Club
 
-**Format:**
+Journal clubs and lab buisness meetings are every Thursday, at 10AM.
 
-- Everyone reads the paper in advance.
-- Each person is assigned a figure or two to walk the group through.
-- This approach avoids the trap of one person reading and presenting the paper while others do not engage.
-- You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you did not understand.
-- If there are supplemental figures or methods associated with your figure, you should be familiar with those as well.
+**Format:**
+- We follow a rotation picking a paper to read. Paper should be sent to the group 1 week before the journal club (i.e. EOD the previous Thursday). There will usually be many interesting papers to pick from in the #papers channel on slack.
+- Each lab member is assigned a figure or two to walk the group through. (This approach makes sure we all read the paper, and avoids the trap of one person reading and presenting while others do not engage.)
+- You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you did not understand. If there are supplemental figures or methods associated with your figure, you should be familiar with those as well. It's OK to not understand everything fully - the point of journal club is to talk through and learn together.
