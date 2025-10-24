@@ -24,8 +24,9 @@ nav:
   - Contact: contact.md
 
 extra_javascript:
-  - https://cdn.auth0.com/js/auth0-spa-js/2.1/auth0-spa-js.production.js
-  - js/auth0-check.js
+  - https://cdn.auth0.com/js/auth0-spa-js/2.1.0/auth0-spa-js.production.js
+  - js/auth0-init.js
+
 
 # If using Material theme, add custom_dir for overrides
 theme:
