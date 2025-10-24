@@ -31,7 +31,7 @@ exports.handler = async (event, context) => {
   try {
     // Check if user is a member of the organization
     const response = await fetch(
-      `https://api.github.com/orgs/${REQUIRED_ORG}/members/${githubUsername}`,
+      `https://api.github.com/orgs/${REQUIRED_ORG}/memberships/${githubUsername}`,
       {
         headers: {
           'Authorization': `token ${githubToken}`,
@@ -42,8 +42,9 @@ exports.handler = async (event, context) => {
     );
     
     // 204 = is a member, 404 = not a member, 302 = requester not authorized
-    const isMember = response.status === 204;
-    
+    const data = await response.json();
+    const isMember = data.state === 'active';
+        
     return {
       statusCode: 200,
       body: JSON.stringify({ 
