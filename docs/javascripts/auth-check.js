@@ -7,7 +7,7 @@ console.log('AUTHCHECK LOADED!');
   
   // Configuration
   const PROTECTED_PATHS = ['/protected/']; 
-  const REQUIRED_ORG = 'your-github-org-name'; 
+  const REQUIRED_ORG = 'LevensteinLab'; 
   
   function isProtectedPage() {
     return PROTECTED_PATHS.some(path => window.location.pathname.startsWith(path));
