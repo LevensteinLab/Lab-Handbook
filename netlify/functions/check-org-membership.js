@@ -12,7 +12,7 @@ exports.handler = async (event, context) => {
   }
 
   // Configuration - UPDATE THIS!
-  const REQUIRED_ORG = 'your-github-org-name';
+  const REQUIRED_ORG = 'LevensteinLab';
   
   // Get user's GitHub access token from Identity
   const githubToken = user.app_metadata?.provider_token;
