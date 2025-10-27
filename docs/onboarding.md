@@ -38,7 +38,7 @@
 
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
-- Schedule your regular 1-on-1 meeting with Dan.
+- Schedule your regular [1-on-1 meeting](https://levensteinlab.github.io/Lab-Handbook/Policies/meetings/) with Dan.
 - Send Dan your headshot and bio for the lab website.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - [Basic Github tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) - make your github account, learn to make a PR.
