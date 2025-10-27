@@ -30,4 +30,3 @@ extra_javascript:
 # If using Material theme, add custom_dir for overrides
 theme:
   name: material  # or your theme
-  custom_dir: overrides
