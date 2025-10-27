@@ -2,7 +2,7 @@
 (async () => {
   // Replace these with your Auth0 values
   const AUTH0_DOMAIN = "dev-qq2slevwutfjfzc5.us.auth0.com";        // e.g. dev-abc123.us.auth0.com
-  const AUTH0_CLIENT_ID = "Ov23ligQIvg1kLSlTs6D";
+  const AUTH0_CLIENT_ID = "HZr5Xg1FKTFPJCwV9enos4g8YzqumU4R";
 
   // Hide body until we authorize
   document.documentElement.style.visibility = "hidden";
@@ -29,7 +29,7 @@
 
   if (!isAuthenticated) {
     // If page is not public, redirect into login. Decide: protect specific paths or whole site.
-    const PROTECTED_PATHS = ["/protected/", "/dashboard/", "/members/"];
+    const PROTECTED_PATHS = ["/protected/"];
     const path = window.location.pathname;
 
     const isProtected = PROTECTED_PATHS.some(p => path.startsWith(p));
