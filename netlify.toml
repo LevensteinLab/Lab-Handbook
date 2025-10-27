@@ -1,3 +1,4 @@
 [build]
-  command = "pip install mkdocs mkdocs-material && mkdocs build"
+  command = "pip install mkdocs mkdocs-material && export PATH=$PATH:/opt/buildhome/.local/bin && mkdocs build"
   publish = "site"
+
