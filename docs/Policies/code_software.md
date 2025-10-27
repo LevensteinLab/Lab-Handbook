@@ -45,3 +45,36 @@ Patrick Mineault's code handbook above is a must-read before you start coding. I
     - This includes commenting, which should be done at the top of functions, classes, modules, files, etc. This helps both you and others understand code.
     - Pythonic code can be confusing sometimes; you'll need to make the tradeoff between clarity and brevity.
     - Download a [linter](https://docs.astral.sh/ruff/) (e.g. Ruff) to help you format your code.
+
+### VS Code
+VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly customizable via extensions, and has great remote development support (which is important when working with the cluster). You can download it [here](https://code.visualstudio.com/Download). If you are unfamiliar with VS Code/IDEs in general, try a tutorial, such as [this one](https://code.visualstudio.com/docs/getstarted/getting-started). In particular, you should:
+1. Link VS Code with your GitHub account
+2. Open a repository, such as `Lab-Handbook`
+3. Try out the terminal (e.g. try `echo $SHELL` to see which shell your computer runs by default)
+4. Install the Python extension
+5. Create an environment
+6. Use the debugger. You can paste the script below into a `.py` file to try it out!
+
+```
+# debug_me.py
+# A tiny script with an intentional bug to practice debugging in VS Code.
+
+# First, run the script normally to see the error. Then, set a breakpoint on the line 
+# with the division operation and run the debugger to inspect variables.
+
+def divide_numbers(a, b):
+    result = a / b
+    return result
+
+def main():
+    numbers = [(10, 2), (5, 0), (8, 4)]
+    total = 0
+    for x, y in numbers:
+        print(f"Dividing {x} by {y}")
+        total += divide_numbers(x, y)
+            
+    print("Average:", total / len(numbers))
+        
+if __name__ == "__main__":
+    main()
+```
