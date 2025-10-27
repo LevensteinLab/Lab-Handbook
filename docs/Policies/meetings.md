@@ -5,6 +5,7 @@ This can be weekly or bi-weekly, and will often be used to discuss results and n
 
 One strategy that worked well for me during my PhD and postdoc was to come to 1-on-1 meetings with slides.  
 These would include:
+
   - agenda outline - what do you want to talk about this week
   - quick recap of the current goals, approach, and TL;DR previous meeting
   - figures showing the results from the week
@@ -41,6 +42,7 @@ You can always message me on slack, and if my door is open, please come in!
 Journal clubs and lab buisness meetings are every Thursday, at 10AM.
 
 **Format:**
+
 - We follow a rotation picking a paper to read. Paper should be sent to the group 1 week before the journal club (i.e. EOD the previous Thursday). There will usually be many interesting papers to pick from in the #papers channel on slack.
 - Each lab member is assigned a figure or two to walk the group through. (This approach makes sure we all read the paper, and avoids the trap of one person reading and presenting while others do not engage.)
 - You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you did not understand. If there are supplemental figures or methods associated with your figure, you should be familiar with those as well. It's OK to not understand everything fully - the point of journal club is to talk through and learn together.
