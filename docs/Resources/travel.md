@@ -1,3 +1,0 @@
-To book travel and accommodation for conferences, use World Travel/Concur, Yale's platform for business travel. See [here](https://your.yale.edu/work-yale/campus-services/yale-travel-management) for more information. You can log into the Concur website [here](https://concur.yale.edu/).
-
-There is a training in Workday called ["Booking Federally Sponsored Travel with World Travel"](https://www.myworkday.com/yale/learning/course/1e7e093ab7a21001abc67bad56c90001?type=9882927d138b100019b928e75843018d&record=00f9b09f318e102c62781e428a3d0001) that you should complete in order to understand the restrictions on booking travel when using federal funds.

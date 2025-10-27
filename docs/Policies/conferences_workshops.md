@@ -9,3 +9,13 @@ Please plan to **send me a draft of your abstract one week before deadline**. Th
 As with a paper submission, nothing goes out without all co-authors seeing and approving the final version.
 
 The exact number of conferences you should expect to present at per year will depend on your career stage, and status of your project. IMO the best times to present are when you're halfway through a project, and trying to figure out what the story is, and just after you've posted a preprint.
+
+To book travel and accommodation for conferences, use World Travel/Concur, Yale's platform for business travel. See [here](https://your.yale.edu/work-yale/campus-services/yale-travel-management) for more information. You can log into the Concur website [here](https://concur.yale.edu/).
+
+There is a training in Workday called ["Booking Federally Sponsored Travel with World Travel"](https://www.myworkday.com/yale/learning/course/1e7e093ab7a21001abc67bad56c90001?type=9882927d138b100019b928e75843018d&record=00f9b09f318e102c62781e428a3d0001) that you should complete in order to understand the restrictions on booking travel when using federal funds.
+
+You have a few options when it comes to airports:
+- Bradley International Airport (BDL) in Hartford, CT
+- Newark International Airport (EWR) in Newark, NJ
+- John F. Kennedy Airport (JFK) in Queens, NYC
+- LaGuardia Airport (LGA) in Queens, NYC
