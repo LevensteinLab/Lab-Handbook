@@ -45,3 +45,6 @@ Patrick Mineault's code handbook above is a must-read before you start coding. I
     - This includes commenting, which should be done at the top of functions, classes, modules, files, etc. This helps both you and others understand code.
     - Pythonic code can be confusing sometimes; you'll need to make the tradeoff between clarity and brevity.
     - Download a [linter](https://docs.astral.sh/ruff/) (e.g. Ruff) to help you format your code.
+
+### VS Code
+VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly customizable via extensions, and has great remote development support (which is important when working with the cluster). You can download it [here](https://code.visualstudio.com/Download). If you are unfamiliar with VS Code/IDEs in general, see the [VS Code tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/vs_code) for more info on how to get started.
