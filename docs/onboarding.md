@@ -71,7 +71,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
         - By the end of this, you should have trained a basic predictive RNN in a gridworld environment, and analyzed its spatial tuning properties
     - Next, modify or use the pRNN network in some way you find interesting. This could involve a new environment or behavioral policy, or changes to the network architecture, loss, or learning rule. Feel free to discuss some ideas with Dan.
      
-    **Getting started - Data analysis path**:
+    **Data analysis path**:
     
     - Your first project: discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html), which is a good package for working with neural timeseries data and has some tutorials.
 
