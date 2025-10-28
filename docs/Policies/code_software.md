@@ -7,7 +7,7 @@ Here's how we may format our code as a lab:
 
 ### Repository Types
 
-1. **Project** (“Lab Notebook”): A repository for managing the day-to-day progress of a research project — analyses in progress, exploratory modeling, notes, and experiment logs. The [cookie cutter repository](https://github.com/LevensteinLab/pat-cookiecutter) (as described in the good research code handbook) is a good place to start, which will get you started with a file structure and environment. Each projest should have its own repository.
+1. **Project** (“Lab Notebook”): A repository for managing the day-to-day progress of a research project — analyses in progress, exploratory modeling, notes, and experiment logs. The [cookie cutter repository](https://github.com/LevensteinLab/pat-cookiecutter) (as described in the good research code handbook) is a good place to start, which will get you started with a file structure and environment. Each project should have its own repository.
 
 2. **Package**: In the course of a project, you’ll likely develop something reusable — e.g., a model, simulation tool, or analysis pipeline. A package is a cleaned-up, documented, and versioned version of that tool, designed so others (future lab members and the broader community) can easily use and extend it. This repository should be kointly owned by you and the lab organization (e.g., under the lab’s GitHub org). As your project moves from an exploration to an exploitation phase, work with Viggy to create and maintain a package repository.
 
