@@ -7,22 +7,11 @@ Here's how we may format our code as a lab:
 
 ### Repository Types
 
-1. **Project** (“Lab Notebook”): A repository for managing the day-to-day progress of a research project — analyses in progress, exploratory modeling, notes, and experiment logs. A sample "cookie cutter" project repository can be found at (**TODO: fill out**)
-* *Ownership*: You (the project lead).
-* *Visibility*: Private within the lab.
-* *Goal*: Document work and enable collaboration and reproducibility within the team.
+1. **Project** (“Lab Notebook”): A repository for managing the day-to-day progress of a research project — analyses in progress, exploratory modeling, notes, and experiment logs. The [cookie cutter repository](https://github.com/LevensteinLab/pat-cookiecutter) (as described in the good research code handbook) is a good place to start, which will get you started with a file structure and environment. Each projest should have its own repository.
 
+2. **Package**: In the course of a project, you’ll likely develop something reusable — e.g., a model, simulation tool, or analysis pipeline. A package is a cleaned-up, documented, and versioned version of that tool, designed so others (future lab members and the broader community) can easily use and extend it. This repository should be kointly owned by you and the lab organization (e.g., under the lab’s GitHub org). As your project moves from an exploration to an exploitation phase, work with Viggy to create and maintain a package repository.
 
-2. **Package**: In the course of a project, you’ll likely develop something reusable — e.g., a model, simulation tool, or analysis pipeline. A package is a cleaned-up, documented, and versioned version of that tool, designed so others (future lab members and the broader community) can easily use and extend it.
-* *Ownership*: Jointly owned by you and the lab organization (e.g., under the lab’s GitHub org).
-* *When to create*: As a project moves from exploration → exploitation, work with Viggy to create and maintain a package repository.
-* *Best practices*: Use semantic versioning and proper documentation (README, examples, tests, CI).
-
-
-3. **Publication**: A repository for reproducing all figures and analyses in a specific paper.
-* *Ownership*: The lab organization (since publications represent lab outputs).
-* *When to create*: As you prepare to submit a manuscript, work with Viggy to set up this repository.
-* *Structure*: Should depend on the relevant package (don’t reimplement analysis code). Pin specific package versions (e.g., via requirements.txt, pyproject.toml, or git submodules) to ensure reproducibility. Include figure-generation scripts, processed data, and notebooks.
+3. **Publication**: A repository for reproducing all figures and analyses in a specific paper. This respoditory is owned by the lab organization (since publications represent lab outputs). As you prepare to submit a manuscript, work with Viggy to set up this repository. The paper repository should depend on the relevant package (don’t reimplement analysis code) and should pin specific package versions (e.g., via requirements.txt, pyproject.toml, or git submodules) to ensure reproducibility. Include figure-generation scripts, processed data, and notebooks.
 
 ### Conventions
 Patrick Mineault's code handbook above is a must-read before you start coding. It reviews the best ways to set up your project, to maintain clarity and cleanliness, to test your code, and to document your code as well. The handbook is the best way to learn these conventions, especially when it comes to efficiency and testing, which rely on great examples. However a few helpful tips to get you started in the right direction
