@@ -47,4 +47,4 @@ Patrick Mineault's code handbook above is a must-read before you start coding. I
     - Download a [linter](https://docs.astral.sh/ruff/) (e.g. Ruff) to help you format your code.
 
 ### VS Code
-VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly customizable via extensions, and has great remote development support (which is important when working with the cluster). You can download it [here](https://code.visualstudio.com/Download). If you are unfamiliar with VS Code/IDEs in general, see `Resources/vs_code.md` for more info on how to get started.
+VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly customizable via extensions, and has great remote development support (which is important when working with the cluster). You can download it [here](https://code.visualstudio.com/Download). If you are unfamiliar with VS Code/IDEs in general, see the [VS Code tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/vs_code) for more info on how to get started.
