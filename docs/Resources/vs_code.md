@@ -1,4 +1,4 @@
-To get started with VS try a tutorial, such as [this one](https://code.visualstudio.com/docs/getstarted/getting-started). The program itself will also give you some tips.
+To get started with VS Code try a tutorial, such as [this one](https://code.visualstudio.com/docs/getstarted/getting-started). The program itself will also give you some tips.
 
 Some basic tips to get started:
 1. Link VS Code with your GitHub account
