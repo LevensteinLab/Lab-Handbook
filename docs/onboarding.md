@@ -56,7 +56,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started (1-2 Weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reprodue and build on your work. Thus, it behooves you to invest some energy in writing good code. 
+- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code. 
     - If you don't have a preferred IDE, Get VS Code and do the VS code tutorial
     - Follow either the ANN path or the data analysis path below
  
