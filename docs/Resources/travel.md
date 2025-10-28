@@ -10,4 +10,4 @@ You have a few options when it comes to airports:
 
 The three NYC airports (including EWR) are generally far cheaper and better connected. The direct Amtrak train from New Haven to Newark/EWR makes that the most convenient option. You can book Amtrak tickets in [Concur](https://concur.yale.edu/) (you should book them in advance) or use the [TrainTime App](https://www.mta.info/traintime) to buy Metro-North/LIRR tickets (less important to buy in advance).
 
-To navigate the MTA (NYC's public transit system) use Google Maps or e.g. CityMapper for real-time arrival info. The MTA has tap-to-pay terminals, so you can purchase ticket on-site using your card or phone.
+To navigate the MTA (NYC's public transit system) use Google Maps or e.g. CityMapper for real-time arrival info. The MTA has tap-to-pay terminals, so you can purchase a ticket on-site using your card or phone.
