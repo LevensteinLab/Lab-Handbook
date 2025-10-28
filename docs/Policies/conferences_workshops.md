@@ -10,4 +10,4 @@ As with a paper submission, nothing goes out without all co-authors seeing and a
 
 The exact number of conferences you should expect to present at per year will depend on your career stage, and status of your project. IMO the best times to present are when you're halfway through a project, and trying to figure out what the story is, and just after you've posted a preprint.
 
-See [Resouces - Travel](https://levensteinlab.github.io/Lab-Handbook/Resources/travel/) for information on booking travel.
+See [Resources - Travel](https://levensteinlab.github.io/Lab-Handbook/Resources/travel/) for information on booking travel.
