@@ -20,6 +20,6 @@ You have a few options when it comes to airports:
 - John F. Kennedy Airport (JFK) in Queens, NYC: Amtrak to LIRR or E train to AirTrain
 - LaGuardia Airport (LGA) in Queens, NYC: Metro-North to Harlem-125th Street, then Uber or M60+ bus
 
-The three NYC airports (this includes Newark because of its proximity) are generally far cheaper and far better connected. The direct Amtrak train from New Haven to Newark/EWR makes that the most convenient option. You can book Amtrak tickets [here](www.amtrak.com) (you should buy them in advance) or use the [TrainTime App](https://www.mta.info/traintime) to buy Metro-North/LIRR tickets (less important to book in advance).
+The three NYC airports (this includes Newark because of its proximity) are generally far cheaper and far better connected. The direct Amtrak train from New Haven to Newark/EWR makes that the most convenient option. You can book Amtrak tickets [here](https://www.amtrak.com) (you should buy them in advance) or use the [TrainTime App](https://www.mta.info/traintime) to buy Metro-North/LIRR tickets (less important to book in advance).
 
 To navigate the MTA (NYC's subway and bus system) you can use Google Maps or something like CityMapper for real-time arrival info. The MTA has tap-to-pay terminals so you can use your card or phone for the fare on-site.
