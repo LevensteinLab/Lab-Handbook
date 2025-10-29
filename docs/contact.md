@@ -5,10 +5,10 @@ Wu Tsai Institute, Center for Neurocomputation and Machine Intelligence
 
 **Lab Members**
 
-| Name | Role | Email | Phone Number |
-| ---- | ---- | -----| -----------|
-| Daniel Levenstein | Primary Investigator | daniel.levenstein@yale.edu | XXX XXX XXXX |
-| Andrea Cumpelik | Postdoctoral Researcher | andrea.cumpelik@yale.edu | XXX XXX XXXX |
-| Viggy Vanchinathan | Postgraduate Associate | vignesh.vanchinathan@yale.edu | XXX XXX XXXX |
-| Huihong Li | Masters Student | huihong.li@yale.edu | XXX XXX XXXX | 
-| Aidan Schneider | Postdoctoral Researcher | aidan.schneider@yale.edu | XXX XXX XXXX | 
+| Name | Role | Email | 
+| ---- | ---- | -----| 
+| Daniel Levenstein | Primary Investigator | daniel.levenstein@yale.edu | 
+| Andrea Cumpelik | Postdoctoral Researcher | andrea.cumpelik@yale.edu |
+| Viggy Vanchinathan | Postgraduate Associate | vignesh.vanchinathan@yale.edu | 
+| Huihong Li | Masters Student | huihong.li@yale.edu | 
+| Aidan Schneider | Postdoctoral Researcher | aidan.schneider@yale.edu | 
