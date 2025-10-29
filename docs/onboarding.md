@@ -38,6 +38,7 @@
 
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
+- Send Viggy a preferred email for the shared lab Google Calendar. You'll receive read & write access to see & add events. We also have an slack integration set up to send reminders for upcoming events.
 - Schedule your regular [1-on-1 meeting](https://levensteinlab.github.io/Lab-Handbook/Policies/meetings/) with Dan.
 - Send Dan your headshot and bio for the lab website.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
