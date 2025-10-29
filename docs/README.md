@@ -8,9 +8,9 @@ Like learning, sleep changes the brain to improve its future performance. Unlike
 
 Our work generally focuses on spatial representation in the hippocampal formation, and a phenomenon called sharp wave ripples - high frequency oscillations in the hippocampus that coordinate activity across the brain and simulate wake-like “replay” trajectories during sleep. We use artificial neural networks (ANNs), dynamical systems theory, and neural data analysis to study how these internally-generated dynamics support offline learning – working closely with experimental collaborators to inspire the design of computational models and to compare them in experimental data. This NeuroAI approach, in which brain-inspired ANNs are built and used as models for the brain, is particularly well-suited to bridge neurons’ circuit and cellular-level properties with their computational capacities, and allows us to study three questions central to our research: 
 
-1. “*How does spontaneous activity emerge and self-organize in neural networks?*”, 
-2. “*How does plasticity during spontaneous activity change the brain?*”, and 
-3. “*How do those changes improve the brain’s operations and performance on future tasks?*”.
+1. “*How does spontaneous activity emerge and self-organize in neural networks?*” 
+2. “*How does plasticity during spontaneous activity change the brain?*”
+3. “*How do those changes improve the brain’s operations and performance on future tasks?*”
 
 In addition to our work on sleep, the lab works broadly at the interface of theoretical and experimental neuroscience - applying computational methods to a variety of interesting problems involving neural dynamics and computation with experimentalist collaborators.
 

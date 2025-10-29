@@ -38,6 +38,7 @@
 
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
+- Send Viggy a preferred email for the shared lab Google Calendar. You'll receive read & write access to see & add events. We also have an slack integration set up to send reminders for upcoming events.
 - Schedule your regular [1-on-1 meeting](https://levensteinlab.github.io/Lab-Handbook/Policies/meetings/) with Dan.
 - Send Dan your headshot and bio for the lab website.
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
@@ -50,26 +51,28 @@
 
 Discuss with Dan your interests and potential first projects. In addition to any reading he suggests, take a look at [Recommended Reading](https://levensteinlab.github.io/Lab-Handbook/Resources/recommended_reading/). If you’re new to working with neural networks, or to neuroAI, I highly recommend these as places to start:
 
-- https://www.sciencedirect.com/science/article/pii/S0896627320307054
-- https://www.nature.com/articles/s41593-019-0520-2
-- https://www.nature.com/articles/s41583-023-00705-w
+- [Artificial Neural Networks for Neuroscientists: A Primer](https://www.sciencedirect.com/science/article/pii/S0896627320307054)
+- [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2) 
+- [The neuroconnectionist research programme](https://www.nature.com/articles/s41583-023-00705-w) 
 
-**Getting started - ANNs path (1-2 weeks)**:
+**Getting started (1-2 Weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
-    - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
-- Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-    - Set up a project repository for the tutorial
-    - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
-    - Next, modify the network in some way you find interesting.
-- Using the compute cluster tutorial
-- Your second project: pRNN Tutorials
-    - By the end of this, you should have trained a basic predictive RNN in a gridworld environment, and analyzed its spatial tuning properties
-    - Next, modify or use the network in some way you find interesting. This could involve a new environment or behavioral policy, or changes to the network architecture, loss, or learning rule. Feel free to discuss some ideas with Dan.
+- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code. 
+    - If you don't have a preferred IDE, Get VS Code and do the VS code tutorial
+    - Follow either the ANN path or the data analysis path below
  
-  **Getting started - Data analysis path**:
-
-- Read about the [software practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the good research code handbook (https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code **TODO: finish description in this paragraph**
-    - If you don't have a preferred IDE, Get VS Code and do VS code tutorial
-- Discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html)
+    **ANNs path**
+    
+    - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+        - [Set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
+        - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
+        - Next, modify the network in some way you find interesting.
+    - Get set up on the [misha compute cluster and learn how to use it](https://levensteinlab.github.io/Lab-Handbook/Resources/hpc/).
+    - Your second project: [pRNN Tutorials](https://levensteinlab.github.io/Lab-Handbook/Resources/prnn_tutorial/)
+        - By the end of this, you should have trained a basic predictive RNN in a gridworld environment, and analyzed its spatial tuning properties
+    - Next, modify or use the pRNN network in some way you find interesting. This could involve a new environment or behavioral policy, or changes to the network architecture, loss, or learning rule. Feel free to discuss some ideas with Dan.
+     
+    **Data analysis path**:
+    
+    - Your first project: discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html), which is a good package for working with neural timeseries data and has some tutorials.
 
