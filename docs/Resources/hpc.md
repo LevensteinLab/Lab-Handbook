@@ -5,6 +5,7 @@ As part of computational research, we will need to dispatch jobs to high-perform
 To get started visit this page for [some info](https://docs.ycrc.yale.edu/clusters/misha/#access-the-cluster) about the HPC prepared by the Yale Center for Research Computing (YCRC) specifically for the Wu Tsai Institute. To use the cluster off-campus, you will need to use a VPN, please see the `vpn.md` file for instructions.
 
 ### Instructions
+
 1. Fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfLghL1gSHRkIQj73zPzvLCJ0sojm9aUHZLQGBD_auD054gqA/viewform?usp=send_form) to access the cluster, noting Dan as the PI from which to get access. You should get access in ~48 hours. 
 2. Receive email from `hpc@yale.edu` with your username and instructions on how to login.
 3. Choose login method. 
@@ -32,6 +33,7 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 
 
 ### About the HPC
+
 1. Consists of multiple groups of computers called **nodes**.
     1. Login node is shared between all users; handles all user logins and is usually excluded from running actual code jobs
     2. Compute nodes which are the majority of all the computers in the HPC; where the tasks are performed

@@ -3,6 +3,7 @@ To book travel and accommodation for conferences, use World Travel/Concur, Yale'
 There is a training in Workday called ["Booking Federally Sponsored Travel with World Travel"](https://www.myworkday.com/yale/learning/course/1e7e093ab7a21001abc67bad56c90001?type=9882927d138b100019b928e75843018d&record=00f9b09f318e102c62781e428a3d0001) that you should complete in order to understand the restrictions on booking travel when using federal funds.
 
 You have a few options when it comes to airports:
+
 - Bradley International Airport (BDL) in Hartford, CT: drive/Uber
 - Newark International Airport (EWR) in Newark, NJ: direct Amtrak train from New Haven
 - John F. Kennedy Airport (JFK) in Queens, NYC: Amtrak to LIRR or E train to AirTrain
