@@ -32,8 +32,8 @@ I prefer to use google doc because I think it has the best tools for co-writing.
   - **Always consider your reader**. Who are they? Why are they reading your document? How can you help them out? They will always thank you for making things clearer, more concise, and easier for them to follow.
   - **For each sentence, interrogate it: "what is your purpose?"** It should contribute something specific to the document at hand, and that something should never be “tell the reader you know this thing”.
   - **Tell your reader only what they need to know** in order to understand and care about what you’re telling them, no more. Your job is not to convince your reader that you know stuff.
-  - **Say it in a lot of words, then get rid of most of them**
-  - **Filler sentences**
+  - **Say it in a lot of words, then get rid of most of them** When you don’t know how to say something concisely: don’t worry about concision, write it out in as many words as possible, then edit them down. You’ll often find that the reason you couldn’t express your idea concisely is because it wasn’t fully developed, and the act of writing → editing will help you develop the idea. Note: this is the vomit method on a small scale.
+  - **Filler sentences** If you don't know how to say what you want to say, use a [filler sentence](https://x.com/realscientists/status/1369995669147107328) that serves the same purpose, which you will edit/expand later. Separate out "what is this sentence for" from "what are the words in this sentence".
   - **Look out for referents.** Words like “this”, “that”, et al. What do they refer to? Is it clear to the reader? Can they be replaced with something clearer, or more informative?
 
 *The first draft, on the other hand, is dark magic voodoo shit*. Where editing is a craft you can hone, writing from scratch is a different dumpster fire every time you put a pen to a blank page. Here are a few methods to get it out and move on with your life. 
@@ -44,3 +44,7 @@ I prefer to use google doc because I think it has the best tools for co-writing.
   - **Generative AI**. I would not recommend using generative AI for your first draft, unless you’re recombining words you’ve already written. For example, if your fellowship asks for a community service statement, and you’ve already written three of them for past applications but the prompt was slightly different and you’ve done some new stuff since then. You can throw your old writing samples and updated CV and ask: “I’m writing a statement for a fellowship application. Here is the prompt and some previous statements I’ve written. Please combine them to fit the prompt, preserving my writing voice and, ideally, the actual language I used, as much as possible”. Once you have a collection of past submissions this will save a lot of time, but I would highly recommend against using GenAI to help with writing anything new - it tends to write many fluffy nice-sounding language without any real content, which is the exact opposite of what you want for subsequent editing, and it robs you of the idea-generation phase of writing which is arguably the most important part. 
 
 _Develop a regular writing practice_
+
+
+
+_
