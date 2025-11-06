@@ -1,0 +1,3 @@
+Some of Yale's internal tools, such as the cluster, are only available on the Yale network. If you are off campus, you will need to use a VPN. For Windows and Mac OS X, download the Cisco AnyConnect VPN Client from the [ITS Software Library](https://yale.onthehub.com/WebStore/ProductSearchOfferingList.aspx?srch=cisco). See [this guide]([url](https://docs.ycrc.yale.edu/clusters-at-yale/access/vpn/)) for Linux and for the full instructions, which will be briefly outlined below.
+
+Once you have installed the Cisco software, type in the server address: `access.yale.edu` and click connect. This should open an authentication tab in your browser, where you will be able to log in using your Yale net ID and password.

@@ -5,6 +5,7 @@ Mailing lists/groups you may wish to sign up for/get added to, and how. Click th
 *=Strongly recommended  
 
 ### Mailing Lists
+
 1. [Neuroscience mailing list](https://mailman.yale.edu/mailman/listinfo/neuroscience)
 2. [Interdepartmental Neuroscience Program (INP) mailing list](https://mailman.yale.edu/mailman/listinfo/inp_general)
 3. *[Wu Tsai Institute (WTI) mailing list](https://mailman.yale.edu/mailman/listinfo/wti-members)
@@ -22,5 +23,6 @@ It's also possible to check out all `mailman@yale` links or manage your subscrip
 
 
 ### Slack Workspaces
+
 1. WTI Slack - Ask Dan to add you
 2. Levenstein Lab Slack - Ask Dan to add you

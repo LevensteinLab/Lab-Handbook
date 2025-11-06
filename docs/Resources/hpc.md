@@ -5,6 +5,7 @@ As part of computational research, we will need to dispatch jobs to high-perform
 To get started visit this page for [some info](https://docs.ycrc.yale.edu/clusters/misha/#access-the-cluster) about the HPC prepared by the Yale Center for Research Computing (YCRC) specifically for the Wu Tsai Institute. Please also review [this github repository](https://github.com/YaleWTI-CNMI/misha-2025-fall) with tutorials made by Ms. Ping Luo, a senior staff member who works in our center to manage cluster use. It has more comprehensive information than the preliminiary tutorial below.
 
 ### Instructions
+
 1. Fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfLghL1gSHRkIQj73zPzvLCJ0sojm9aUHZLQGBD_auD054gqA/viewform?usp=send_form) to access the cluster, noting Dan as the PI from which to get access. You should get access in ~48 hours. 
 2. Receive email from `hpc@yale.edu` with your username and instructions on how to login.
 3. Choose login method. 
@@ -32,6 +33,7 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 
 
 ### About the HPC
+
 1. Consists of multiple groups of computers called **nodes**.
     1. Login node is shared between all users; handles all user logins and is usually excluded from running actual code jobs
     2. Compute nodes which are the majority of all the computers in the HPC; where the tasks are performed
@@ -105,6 +107,7 @@ python my_python.py
 
 ### Example Use Case: Cloning Remote Repository
 At first, attempting to clone a repository in the standard way (e.g. `git clone https://github.com/LevensteinLab/Lab-Handbook.git`) may not work. This is because GitHub doesn't know how to handle a request from a remote computer. You must first authenticate yourself. We can repeat the same process we used to authenticate ourselves for the cluster, but for GitHub, which offers the ability to add SSH keys.
+
 1. While logged into the cluster, again run `ssh-keygen`. Click enter to accept the default directory for where the keys will be stored.
 2. Choose a passphrase. You will need to remember this, as it provides access to your private key.
 3. Navigate to that directory and open the public key. This may look something like:
