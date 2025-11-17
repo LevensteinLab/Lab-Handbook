@@ -24,5 +24,5 @@ It's also possible to check out all `mailman@yale` links or manage your subscrip
 
 ### Slack Workspaces
 
-1. WTI Slack - Ask Dan to add you
+1. WTI Slack - Fill out [request form](https://docs.google.com/forms/d/e/1FAIpQLSe12BBIXdFappFJ2YZ-p2TmYv3zWBlScogv6I2Ko2xDxNuWVA/viewform)
 2. Levenstein Lab Slack - Ask Dan to add you
