@@ -40,11 +40,13 @@ I prefer to use google doc because I think it has the best tools for co-writing.
 
   - **The vomit method/shitty first draft**. This can be summed up as: You need to write words. It's ok if they are garbage words. You can fix them later. TBH, all first drafts are shitty first drafts whose only purpose is to exist so you can move on to editing, and the vomit method is just one way to get it out of you as quickly as possible.
   - **The outline-first method**. This sounds like elementary school stuff but it can really work. Collect the pieces you want/need to include in your document and arrange them in a bulleted list. Organize the overall structure of the document, identify missing pieces. The idea is to focus on pieces and structure not on language. Once you have the pieces in a structure you like, turn them into complete sentences and delete the bullet points.
-  - **The San Antonio method.** This is basically the vomit method with at least one coauthor and a whiteboard. TL;DR one person’s job is to write on the board and everyone else’s is to throw out ideas. The whiteboard author should take an attitude of “yes, and”, note down anything that’s been said, and should try to prompt thinking about how they relate.
+  - **The San Antonio method.** This is basically the vomit method with at least one coauthor and a whiteboard. TL;DR one person’s job is to write on the board and everyone else’s is to throw out ideas. The whiteboard author should take an attitude of “yes, and”, note down anything that’s been said, and should try to prompt thinking about how they relate. Afterword, arrange your notes into an outline.
   - **Generative AI**. I would not recommend using generative AI for your first draft, unless you’re recombining words you’ve already written. For example, if your fellowship asks for a community service statement, and you’ve already written three of them for past applications but the prompt was slightly different and you’ve done some new stuff since then. You can throw your old writing samples and updated CV and ask: “I’m writing a statement for a fellowship application. Here is the prompt and some previous statements I’ve written. Please combine them to fit the prompt, preserving my writing voice and, ideally, the actual language I used, as much as possible”. Once you have a collection of past submissions this will save a lot of time, but I would highly recommend against using GenAI to help with writing anything new - it tends to write many fluffy nice-sounding language without any real content, which is the exact opposite of what you want for subsequent editing, and it robs you of the idea-generation phase of writing which is arguably the most important part. 
 
 _Develop a regular writing practice_
 
+_Advice on specific pieces of academic writing (Links/advice to come)_
 
-
-_
+  - Writing an Abstract
+  - Structuring your paper
+  - Specific Aims: by the time your reader gets to your aims, they should be able to guess what they are without reading them. That is, you should have given them exactly and only the information they need to have a burning question, which your aims spell out a way of asking and answering. See [Anatomy of a Specific Aims](https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx) for more.
