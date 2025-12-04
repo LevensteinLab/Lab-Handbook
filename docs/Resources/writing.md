@@ -5,7 +5,7 @@ Manuscripts, fellowship/grant applications, conference abstracts…
 
 Writing is a craft, and scientific writing is a specific kind of writing. 
 Writing effectively takes a lot of time and work. 
-From the get go, I recommend everyone watch [this lecture on how to write well](https://www.youtube.com/watch?v=vtIzMaLkCaM). 
+From the get go, I recommend everyone **watch [this lecture on how to write well](https://www.youtube.com/watch?v=vtIzMaLkCaM)**. 
 Watch it now, before you have to write anything. And watch it again in a year or two.
 
 Part of your training in the lab is to improve your writing skills, and IMO it’s one of the most important parts. 
