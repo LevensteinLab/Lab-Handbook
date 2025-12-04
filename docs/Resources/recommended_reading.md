@@ -31,6 +31,8 @@
 
 - https://www.cell.com/trends/neurosciences/abstract/S0166-2236(21)00144-2
 - https://direct.mit.edu/neco/article-abstract/33/11/2908/107071/Replay-in-Deep-Learning-Current-Approaches-and
+- https://www.tandfonline.com/doi/abs/10.1080/095400996116910
+- https://www.nature.com/articles/s41467-020-17866-2
 
 **hippocampus**
 
