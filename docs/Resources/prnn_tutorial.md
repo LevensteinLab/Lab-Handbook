@@ -14,13 +14,13 @@ There are some extra steps in managing the requirements needed for the [Predicti
     2. Type `module load miniconda` to ensure conda is loaded for use.
     3. Run `conda create -n base39 python=3.9` to make an environment called `base39` with python 3.9 installed.
     4. Activate it (`conda activate base39`).
-5. Make the `PredictiveReplay` environment. This is done by running `make_venv.sh`.
+5. Make the `PredictiveReplay` environment. This is done by running `make_venv.sh`, which is in the pRNN repo.
     1. First comment out/change the following lines. This will ensure that the correct environments remain active.
         1. `module --force purge`
         2. `module load python/3.9`
         3. `virtualenv $VENV_DIR` changed to `virtualenv -p ~/.conda/envs/base39/bin/python $VENV_DIR` (this ensures we're making the virtualenv with python 3.9)
-        4. Add `pip install virtualenv` before the line in step 3.
-        5. `#pip3 install gym-minigrid` changed to `pip3 install -e ../../gym-minigrid-dan-fork` (this ensure we're using Dan's forked version)
+        4. Add `pip install virtualenv` before the line in step 3 (line 18).
+        5. In line 49, change `#pip3 install gym-minigrid` to `pip3 install -e ../../gym-minigrid-dan-fork` (this ensure we're using Dan's forked version)
     2. Run `bash make_venv.sh` to create the environment.
 6. Load the environment. This is done by loading `load_venv.sh`
     1. Comment out the following lines again. This will prevent the underlying conda environment from being purged.
