@@ -32,9 +32,9 @@ I prefer to use google doc because I think it has the best tools for co-writing.
   - **Always consider your reader**. Who are they? Why are they reading your document? How can you help them out? They will always thank you for making things clearer, more concise, and easier for them to follow.
   - **For each sentence, interrogate it: "what is your purpose?"** It should contribute something specific to the document at hand, and that something should never be “tell the reader you know this thing”.
   - **Tell your reader only what they need to know** in order to understand and care about what you’re telling them, no more. Your job is not to convince your reader that you know stuff.
-  - **Say it in a lot of words, then get rid of most of them** When you don’t know how to say something concisely: don’t worry about concision, write it out in as many words as possible, then edit them down. You’ll often find that the reason you couldn’t express your idea concisely is because it wasn’t fully developed, and the act of writing → editing will help you develop the idea. Note: this is the vomit method on a small scale.
-  - **Filler sentences** If you don't know how to say what you want to say, use a [filler sentence](https://x.com/realscientists/status/1369995669147107328) that serves the same purpose, which you will edit/expand later. Separate out "what is this sentence for" from "what are the words in this sentence".
-  - **Look out for referents.** Words like “this”, “that”, et al. What do they refer to? Is it clear to the reader? Can they be replaced with something clearer, or more informative?
+  - **Say it in a lot of words, then get rid of most of them**. When you don’t know how to say something concisely: don’t worry about concision, write it out in as many words as possible, then edit them down. You’ll often find that the reason you couldn’t express your idea concisely is because it wasn’t fully developed, and the act of writing → editing will help you develop the idea. Note: this is the vomit method on a small scale.
+  - **Filler sentences**. If you don't know how to say what you want to say, use a [filler sentence](https://x.com/realscientists/status/1369995669147107328) that serves the same purpose, which you will edit/expand later. Separate out "what is this sentence for" from "what are the words in this sentence".
+  - **Look out for referents**. Words like “this”, “that”, et al. What do they refer to? Is it clear to the reader? Can they be replaced with something clearer, or more informative?
 
 *The first draft, on the other hand, is dark magic voodoo shit*. Where editing is a craft you can hone, writing from scratch is a different dumpster fire every time you put a pen to a blank page. Here are a few methods to get it out and move on with your life. 
 
@@ -52,6 +52,6 @@ _Advice on specific pieces of academic writing (Links/advice to come)_
   - Specific Aims: by the time your reader gets to your aims, they should be able to guess what they are without reading them. That is, you should have given them exactly and only the information they need to have a burning question, which your aims spell out a way of asking and answering. See [Anatomy of a Specific Aims](https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx) for more.
 
 ## Miscellaneous resources
-- [Mensh and Kording 2017 - "Ten simple rules for structuring papers"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-- [Carandini 2018 - "How to write a paper (with me)"](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view)
+- [Mensh and Kording 2017 - Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [Carandini 2018 - How to write a paper (with me)](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view)
 - [The Perfect Sentence Vortex and How to Escape It](https://researchinsiders.blog/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/)
