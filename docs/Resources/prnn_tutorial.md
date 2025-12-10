@@ -33,7 +33,7 @@ There are some extra steps in managing the requirements needed for the [Predicti
     2. If nothing shows up, it didn't install correctly. Run `cd ~/gym-minigrid-dan-fork`, then `pip3 install -e .` to install it into the environment.
 9. In your terminal (with both environments activated), run:
     1. `pip install "pip<24.1"`
-    2. `pip install setuptools==59.5.0 wheel=0.37.0`
+    2. `pip install setuptools==59.5.0 wheel==0.37.0`
     3. `pip3 install gym==0.21.0 --no-binary :all:`
 10. Rerun `bash make_venv.sh` then `bash load_venv.sh`.
     1. *Sidebar from Viggy: To be completely honest, I have no idea why steps 9 & 10 work. I spent many hours trying to fix a random numpy error that pops up in the `tutorial.ipynb`, but doing steps 9 and 10 fixes it, despite not reinstalling a different version of numpy. My hypothesis is that the downgraded version of `pip`, `setuptools`, and `wheel` help us install this version of `gym`, and when we rerun `make_venv.sh`, we can reinstall the correct version of numpy (`1.22.4` instead of `1.26.x` that it likes to do). It could be an issue with the order in which we install the packages at first. If you continue to have issues, try steps 9 and 10 again, and "turning \[your kernel\] on and off again". Or ask me, and we can figure it out. One day, I will figure out how to do this with fewer steps.*
