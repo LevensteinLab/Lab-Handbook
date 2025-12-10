@@ -9,11 +9,12 @@ Mailing lists/groups you may wish to sign up for/get added to, and how. Click th
 1. [Neuroscience mailing list](https://mailman.yale.edu/mailman/listinfo/neuroscience)
 2. [Interdepartmental Neuroscience Program (INP) mailing list](https://mailman.yale.edu/mailman/listinfo/inp_general)
 3. *[Wu Tsai Institute (WTI) mailing list](https://mailman.yale.edu/mailman/listinfo/wti-members)
-4. Research in Progress (RIP) mailing list - Ask Dan to email on your behalf
-5. *[WTI NeuroAI Journal Club mailing list](https://mailman.yale.edu/mailman/listinfo/wti-neuro-ai-jc)
-6. [APplied PHilosophy In NEuroscience (APHINE)](https://yaleconnect.yale.edu/aphine/home/)
-7. [Quantitative Biology (QBio) talks](https://mailman.yale.edu/mailman/listinfo/qbio)
-8. Foundations of Data Science Institute talks - visit `subscribe.yale.edu` and find "FDS Announcements" under the "Research Administration" category
+4. *[WTI Trainees mailing list](https://mailman.yale.edu/mailman/listinfo/wti-trainee)
+5. Research in Progress (RIP) mailing list - Ask Dan to email on your behalf
+6. *[WTI NeuroAI Journal Club mailing list](https://mailman.yale.edu/mailman/listinfo/wti-neuro-ai-jc)
+7. [APplied PHilosophy In NEuroscience (APHINE)](https://yaleconnect.yale.edu/aphine/home/)
+8. [Quantitative Biology (QBio) talks](https://mailman.yale.edu/mailman/listinfo/qbio)
+9. Foundations of Data Science Institute talks - visit `subscribe.yale.edu` and find "FDS Announcements" under the "Research Administration" category
 
 
 It's also possible to check out all `mailman@yale` links or manage your subscriptions with the links below:
