@@ -50,3 +50,8 @@ _Advice on specific pieces of academic writing (Links/advice to come)_
   - Writing an Abstract
   - Structuring your paper
   - Specific Aims: by the time your reader gets to your aims, they should be able to guess what they are without reading them. That is, you should have given them exactly and only the information they need to have a burning question, which your aims spell out a way of asking and answering. See [Anatomy of a Specific Aims](https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx) for more.
+
+## Miscellaneous resources
+- [Mensh and Kording 2017 - "Ten simple rules for structuring papers"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [Carandini 2018 - "How to write a paper (with me)"](https://drive.google.com/file/d/1RFzp3BV1tT4XQTGkGmopkmanjkN9UptD/view)
+- [The Perfect Sentence Vortex and How to Escape It](https://researchinsiders.blog/2013/03/05/the-perfect-sentence-vortex-and-how-to-escape-it/)
