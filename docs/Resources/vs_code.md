@@ -8,7 +8,7 @@ Some basic tips to get started:
 5. Create an environment
 6. Use the debugger. You can copy `Resources/debug_me.py` to try it out! If you want, you can create a new project repo that you will also use for the pytorch tutorial as part of your first project.
 
-To use VS Code with the cluster off-campus, you will need to use a VPN (see `Resources/hpc.md` for more information on using the cluster and `Resources/vpn.md` to configure the VPN). To connect VS Code to the Misha cluster:
+To use VS Code with the cluster off campus, you will need to use a VPN (see `Resources/hpc.md` for more information on using the cluster and `Resources/vpn.md` to configure the VPN). To connect VS Code to the Misha cluster:
 1. Go to the [Misha OnDemand website](https://ood-misha.ycrc.yale.edu/).
 2. Start a VS Code Proxy from the Interactive Apps section.
     - Configure the proxy according to your needs (e.g. time, memory, number of cores, and type of partition)
