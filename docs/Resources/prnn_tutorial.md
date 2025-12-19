@@ -5,7 +5,7 @@ There are some extra steps in managing the requirements needed for the [Predicti
 1. Ensure you have an account on Misha, and log on. Make sure to allocate an interactive session (e.g. `salloc -t 2:00:00`)! 
     1. Make sure you've also set up SSH cloning from the cluster, because you'll need to clone repositories into your storage. We're using SSH clone links from here out.
     2. See the page on HPCs for more information on this.
-2. Clone the `pRNN` repository into your `project` folder (`git clone git@github.com:LevensteinLab/pRNN.git`).
+2. Clone the `pRNN` repository into your `project` folder (`git clone git@github.com:LevensteinLab/pRNN.git`), 👀watch the repository so you can be notified of any updates.
 3. In your `HOME` directory (accessible by typing `cd ~`):
     1. Clone Dan's fork of gym-minigrid (`git clone git@github.com:dlevenstein/gym-minigrid.git gym-minigrid-dan-fork`).
     2. Also, clone the Farama Foundation version of minigrid. This is the most up-to-date version. (`git@github.com:Farama-Foundation/Minigrid.git`) 
