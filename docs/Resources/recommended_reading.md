@@ -4,19 +4,20 @@
 
 **Sleep**
 
-- https://pubmed.ncbi.nlm.nih.gov/23589831/
-- https://journals.physiology.org/doi/abs/10.1152/physrev.00054.2024
-- https://www.nature.com/articles/nrn2762
-- [https://www.cell.com/neuron/fulltext/S0896-6273(23)00201-5](https://www.cell.com/neuron/fulltext/S0896-6273(23)00201-5)
-- https://www.sciencedirect.com/science/article/pii/S0896627304005409
+- [Sleep-dependent memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627304005409), Stickgold R, 2005, Nature
+- [The memory function of sleep](https://www.nature.com/articles/nrn2762), Diekelmann S & Born J, 2010, Nat Rev Neurosci
+- [Overlapping memory replay during sleep builds cognitive schemata](https://www.sciencedirect.com/science/article/pii/S1364661311001094), Lewis PA & Durrant SJ, 2011, Trends Cogn Sci
+- [About sleep’s role in memory](https://pubmed.ncbi.nlm.nih.gov/23589831/), Rasch B & Born J, 2013, Physiol Rev
+- [Sleep and synaptic plasticity in the developing and adult brain](https://link.springer.com/chapter/10.1007/7854_2014_305), Frank MG, 2014, Curr Top Behav Neurosci
+- [Mechanisms of systems memory consolidation during sleep](https://www.nature.com/articles/s41593-019-0467-3), Klinzing JG et al, 2019, Nat Neurosci
+- [Experience and sleep-dependent synaptic plasticity: from structure to activity](https://royalsocietypublishing.org/rstb/article/375/1799/20190234/23743/Experience-and-sleep-dependent-synaptic-plasticity), Sun L et al, 2020, Philos Trans R Soc B
+- [Sleep — a brain state serving systems memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627323002015), Brodt S et al, 2023, Neuron
+- [Sleep’s contribution to memory formation](https://journals.physiology.org/doi/abs/10.1152/physrev.00054.2024), Lutz ND et al, 2026, Physiol Rev
 
 **Memory consolidation**
 
-- https://pubmed.ncbi.nlm.nih.gov/7624455/
-- https://www.nature.com/articles/nrn2762
-- https://pubmed.ncbi.nlm.nih.gov/21764357/
-- [https://www.cell.com/neuron/fulltext/S0896-6273(23)00201-5](https://www.cell.com/neuron/fulltext/S0896-6273(23)00201-5)
-- https://www.sciencedirect.com/science/article/pii/S0896627304005409
+- [Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory](https://pubmed.ncbi.nlm.nih.gov/7624455/), McClelland JL et al, 1995, Psychol Rev
+
 
 **Artificial Neural Networks (ANNs)**
 
