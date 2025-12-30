@@ -52,7 +52,7 @@
 - [Self-Supervised Learning of Representations for Space Generates Multi-Modular Grid Cells](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4846257e355f6923fc2a1fbe35099e91-Abstract-Conference.html), Schaeffer R et al, 2023, NeurIPS
 - [Episodic and associative memory from spatial scaffolds in the hippocampus](https://pubmed.ncbi.nlm.nih.gov/39814883/), Chandra S et al, 2025, Nature
 
-** Neural population dynamics, manifolds, et al **
+**Neural population dynamics, manifolds, et al**
 
 - Mante et al., 2013, Nature. [Context-dependent computation by recurrent dynamics in prefrontal cortex](https://pubmed.ncbi.nlm.nih.gov/24201281/)
 - Sussillo et al, 2013, Neural Computation. [Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](https://direct.mit.edu/neco/article/25/3/626/7854/Opening-the-Black-Box-Low-Dimensional-Dynamics-in)
