@@ -52,6 +52,29 @@
 - [Self-Supervised Learning of Representations for Space Generates Multi-Modular Grid Cells](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4846257e355f6923fc2a1fbe35099e91-Abstract-Conference.html), Schaeffer R et al, 2023, NeurIPS
 - [Episodic and associative memory from spatial scaffolds in the hippocampus](https://pubmed.ncbi.nlm.nih.gov/39814883/), Chandra S et al, 2025, Nature
 
+**Neural population dynamics, manifolds, et al**
+
+- Mante et al., 2013, Nature. [Context-dependent computation by recurrent dynamics in prefrontal cortex](https://pubmed.ncbi.nlm.nih.gov/24201281/)
+- Sussillo et al, 2013, Neural Computation. [Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](https://direct.mit.edu/neco/article/25/3/626/7854/Opening-the-Black-Box-Low-Dimensional-Dynamics-in)
+- Sadtler et al, 2014, Nature. [Neural constraints on learning](https://www.nature.com/articles/nature13665)
+- Sussillo et al, 2015, Nature Neuroscience. [A neural network that finds a naturalistic solution for the production of muscle activity](https://www.nature.com/articles/nn.4042)
+- Gallego et al, 2017, *Neuron*. [Neural Manifolds for the Control of Movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634)
+- Mastrogiuseppe & Ostojic, 2018, *Neuron*. [Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks](https://www.sciencedirect.com/science/article/pii/S0896627318305439)
+- Saxena & Cunningham, 2019, *Current Opinion in Neurobiology*. [Towards the neural population doctrine](https://www.sciencedirect.com/science/article/pii/S0959438818300990)
+- Inagaki et al, 2019, Nature. [Discrete attractor dynamics underlies persistent activity in the frontal cortex](https://pubmed.ncbi.nlm.nih.gov/30728503/)
+- Chaudhuri et al, 2019, *Nature Neuroscience*. [The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep](https://www.nature.com/articles/s41593-019-0460-x)
+- Yang et al, 2019, *Nature Neuroscience*. [Task representations in neural networks trained to perform many cognitive tasks](https://pubmed.ncbi.nlm.nih.gov/30643294/)
+- Vyas et al, 2020, *Annual Review of Neuroscience*. [Computation Through Neural Population Dynamics](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-092619-094115) 
+- Barack et al, 2021, *Nat Rev Neurosci*. [Two views on the cognitive brain](https://pubmed.ncbi.nlm.nih.gov/33859408/)
+- Kriegeskorte et al, 2021, *Nature Reviews Neuroscience*. [Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3)
+- Jazayeri & Ostojic, 2021, Current Opinion in Neurobiology. [Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity](https://www.sciencedirect.com/science/article/pii/S0959438821000933) 
+- DePasquale et al, 2023, *Neuron*. [The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks](https://www.sciencedirect.com/science/article/pii/S0896627322010807)
+- Langdon et al, 2023, Nature Reviews Neuroscience. [A unifying perspective on neural manifolds and circuits for cognition](https://www.nature.com/articles/s41583-023-00693-x)
+- Driscoll et al, 2024, *Nature Neuroscience*. [Flexible multitask computation in recurrent networks utilizes shared dynamical motifs](https://www.nature.com/articles/s41593-024-01668-6)
+- Genkin et al, 2025, Nature. [The dynamics and geometry of choice in the premotor cortex](https://www.nature.com/articles/s41586-025-09199-1)
+- Langdon et al, 2025, *Nature Neuroscience*. [Latent circuit inference from heterogeneous neural responses during cognitive tasks](https://www.nature.com/articles/s41593-025-01869-7)
+- 
+
 **General - scientific process**
 
 - https://web.stanford.edu/~fukamit/schwartz-2008.pdf
