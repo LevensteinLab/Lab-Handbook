@@ -67,11 +67,13 @@
 - Vyas et al, 2020, *Annual Review of Neuroscience*. [Computation Through Neural Population Dynamics](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-092619-094115) 
 - Barack et al, 2021, *Nat Rev Neurosci*. [Two views on the cognitive brain](https://pubmed.ncbi.nlm.nih.gov/33859408/)
 - Kriegeskorte et al, 2021, *Nature Reviews Neuroscience*. [Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3)
+- Jazayeri & Ostojic, 2021, Current Opinion in Neurobiology. [Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity](https://www.sciencedirect.com/science/article/pii/S0959438821000933) 
 - DePasquale et al, 2023, *Neuron*. [The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks](https://www.sciencedirect.com/science/article/pii/S0896627322010807)
 - Langdon et al, 2023, Nature Reviews Neuroscience. [A unifying perspective on neural manifolds and circuits for cognition](https://www.nature.com/articles/s41583-023-00693-x)
 - Driscoll et al, 2024, *Nature Neuroscience*. [Flexible multitask computation in recurrent networks utilizes shared dynamical motifs](https://www.nature.com/articles/s41593-024-01668-6)
 - Genkin et al, 2025, Nature. [The dynamics and geometry of choice in the premotor cortex](https://www.nature.com/articles/s41586-025-09199-1)
 - Langdon et al, 2025, *Nature Neuroscience*. [Latent circuit inference from heterogeneous neural responses during cognitive tasks](https://www.nature.com/articles/s41593-025-01869-7)
+- 
 
 **General - scientific process**
 
