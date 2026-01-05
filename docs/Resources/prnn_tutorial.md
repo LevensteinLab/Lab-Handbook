@@ -12,8 +12,8 @@ There are some extra steps in managing the requirements needed for the [Predicti
 4. Create a conda environment with Python 3.9.
     1. Misha doesn't come with Python 3.9 out of the box, and we need this version for later dependencies.
     2. Type `module load miniconda` to ensure conda is loaded for use.
-    3. Run `conda create -n base39 python=3.9` to make an environment called `base39` with python 3.9 installed.
-    4. Activate it (`conda activate base39`).
+    3. Run `conda create -n prnn_tutorial python=3.9` to make an environment called `prnn_tutorial` with python 3.9 installed.
+    4. Activate it (`conda activate prnn_tutorial`).
 5. Now, we need to populate our environment with the correct packages. Some of them depend on an older version of pip, so it's important to do the steps in order. Run the following commands:
     1. `pip install "pip<24.1" setuptools==59.5.0 wheel=0.37.0`
     2. `pip install gym==0.21.0 --no-binary gym` 
@@ -22,8 +22,8 @@ There are some extra steps in managing the requirements needed for the [Predicti
     1. `pip3 install -e ~/project/gym-minigrid-dan-fork`
     2. `pip3 install -e ~/project/Minigrid`
 7. Make sure that the jupyter notebook kernel can recognize this environment.
-    1. Run `ipython kernel install --user --name=prnn-tutorial`. To allow jupyter notebooks to pick it up.
-    2. If you run `jupyter kernelspec list`, you should see `prnn-tutorial` as an option.
+    1. Run `ipython kernel install --user --name=prnn_tutorial`. To allow jupyter notebooks to pick it up.
+    2. If you run `jupyter kernelspec list`, you should see `prnn_tutorial` as an option.
     3. You may need to restart your VSCode or kernel here. 
         1. If you're on VSCode, you can do this fast with `Cmd + Shift + P` to open the Command Palette and then `Developer: Reload Window`.
 8. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://github.com/LevensteinLab/pRNN/blob/main/docs/quickstart.rst). This contains an example training run.
