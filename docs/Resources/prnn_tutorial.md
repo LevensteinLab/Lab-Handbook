@@ -6,10 +6,10 @@ There are some extra steps in managing the requirements needed for the [Predicti
     1. Make sure you've also set up SSH cloning from the cluster, because you'll need to clone repositories into your storage. We're using SSH clone links from here out.
     2. See the page on HPCs for more information on this.
 2. Clone the `pRNN` repository into your `project` folder (`git clone git@github.com:LevensteinLab/pRNN.git`), and 👁️watch the repository so you can be notified of any updates.
-3. In your `HOME` directory (accessible by typing `cd ~`):
+3. In your `project` directory (accessible by typing `cd ~/project`):
     1. Clone Dan's fork of gym-minigrid (`git clone git@github.com:dlevenstein/gym-minigrid.git gym-minigrid-dan-fork`).
     2. Also, clone the Farama Foundation version of minigrid. This is the most up-to-date version. (`git@github.com:Farama-Foundation/Minigrid.git`) 
-4. Create a conda environment (in `HOME`) with Python 3.9.
+4. Create a conda environment with Python 3.9.
     1. Misha doesn't come with Python 3.9 out of the box, and we need this version for later dependencies.
     2. Type `module load miniconda` to ensure conda is loaded for use.
     3. Run `conda create -n base39 python=3.9` to make an environment called `base39` with python 3.9 installed.
@@ -19,13 +19,11 @@ There are some extra steps in managing the requirements needed for the [Predicti
     2. `pip install gym==0.21.0 --no-binary gym` 
     3. `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 --no-cache-dir`
 6. We'll also need to install the external repositories from step 3 into environment.
-    1. `pip3 install -e ~/gym-minigrid-dan-fork`
-    2. `pip3 install -e ~/Minigrid`
-7. Lastly, install the rest of the packages, which can be done in one step with the provided `requirements.txt`.
-    1. `pip install -r requirements.txt`
-8. Make sure that the jupyter notebook kernel can recognize this environment.
-    1. Run `ipython kernel install --user --name=prnn-kernel`. To allow jupyter notebooks to pick it up.
-    2. If you run `jupyter kernelspec list`, you should see `prnn-kernel` as an option.
+    1. `pip3 install -e ~/project/gym-minigrid-dan-fork`
+    2. `pip3 install -e ~/project/Minigrid`
+7. Make sure that the jupyter notebook kernel can recognize this environment.
+    1. Run `ipython kernel install --user --name=prnn-tutorial`. To allow jupyter notebooks to pick it up.
+    2. If you run `jupyter kernelspec list`, you should see `prnn-tutorial` as an option.
     3. You may need to restart your VSCode or kernel here. 
         1. If you're on VSCode, you can do this fast with `Cmd + Shift + P` to open the Command Palette and then `Developer: Reload Window`.
-9. You should be able to run `tutorial.ipynb` now. This contains an example training run.
+8. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://github.com/LevensteinLab/pRNN/blob/main/docs/quickstart.rst). This contains an example training run.
