@@ -2,7 +2,7 @@
 
 There are some extra steps in managing the requirements needed for the [Predictive RNN](https://github.com/LevensteinLab/pRNN) project. This guide should help you get everything set up on Misha.
 
-1. Ensure you have an account on Misha, and log on. Make sure to allocate an interactive session (e.g. `salloc -t 2:00:00`)! 
+1. Ensure you have an account on Misha, and log on. Make sure to allocate an interactive session (e.g. `salloc -t 2:00:00`)! (If you are using the VS Code Proxy, as described in `vs_code.md`, you are already on a compute node.)
     1. Make sure you've also set up SSH cloning from the cluster, because you'll need to clone repositories into your storage. We're using SSH clone links from here out.
     2. See the page on HPCs for more information on this.
 2. Clone the `pRNN` repository into your `project` folder (`git clone git@github.com:LevensteinLab/pRNN.git`).
