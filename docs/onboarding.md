@@ -62,7 +62,7 @@ Discuss with Dan your interests and potential first projects. In addition to any
     - If you don't have a preferred IDE, Get VS Code and do the VS code tutorial
     - Follow either the ANN path or the data analysis path below
  
-    **ANNs path**
+    **ANNs path**:
     
     - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
         - [Set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
@@ -76,4 +76,9 @@ Discuss with Dan your interests and potential first projects. In addition to any
     **Data analysis path**:
     
     - Your first project: discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html), which is a good package for working with neural timeseries data and has some tutorials.
+ 
+    **Dynamical systems path**:
+
+    - Consider borrowing [Dynamical Systems in Neuroscience](https://direct.mit.edu/books/monograph/2589/Dynamical-Systems-in-NeuroscienceThe-Geometry-of) or [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) from the lab library
+    - Pick (with Dan) a dynamical systems model related to your project, and replicate its phase planes and bifurcation analysis using [phaseportrait](https://github.com/phaseportrait/phaseportrait) and [PyCoBi](https://pycobi.readthedocs.io/en/latest/)
 
