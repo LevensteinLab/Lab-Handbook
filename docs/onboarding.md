@@ -36,7 +36,7 @@
 
 **Your first day**
 
-- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
+- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA). You'll be added to some channels, but take a look through the channels and join any that interest you!
 - Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe12BBIXdFappFJ2YZ-p2TmYv3zWBlScogv6I2Ko2xDxNuWVA/viewform) to get access to the Wu Tsai Institute slack.
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
 - Send Viggy a preferred email for the shared lab Google Calendar. You'll receive read & write access to see & add events. We also have an slack integration set up to send reminders for upcoming events.
