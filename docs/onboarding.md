@@ -64,9 +64,9 @@ Discuss with Dan your interests and potential first projects. In addition to any
  
     **ANNs path**
     
-    - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-        - [Set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
-        - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
+    - Your first project: Complete the [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) PyTorch Tutorial.
+        - [First set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
+        - By the end of this tutorial, you should have trained a multi-layer perceptron (MLP) to solve fMNIST.
         - Next, modify the network in some way you find interesting.
     - Get set up on the [misha compute cluster and learn how to use it](https://levensteinlab.github.io/Lab-Handbook/Resources/hpc/).
     - Your second project: [pRNN Tutorials](https://levensteinlab.github.io/Lab-Handbook/Resources/prnn_tutorial/)
