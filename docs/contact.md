@@ -1,6 +1,7 @@
 **Lab Information**
 
 Wu Tsai Institute, Center for Neurocomputation and Machine Intelligence
+
 100 College Street, New Haven, CT 06511
 
 **Lab Members**
