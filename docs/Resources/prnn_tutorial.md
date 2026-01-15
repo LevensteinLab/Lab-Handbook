@@ -36,5 +36,5 @@ There are some extra steps in managing the requirements needed for the [Predicti
     3. If you run `jupyter kernelspec list`, you should see `prnn_tutorial` as an option.
     4. You may need to restart your VSCode or kernel here. 
         1. If you're on VSCode, you can do this fast with `Cmd + Shift + P` to open the Command Palette and then `Developer: Reload Window`.
-11. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://github.com/LevensteinLab/pRNN/blob/main/docs/quickstart.rst). This contains an example training run.
+11. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://prnn.readthedocs.io/en/latest/quickstart.html). This contains an example training run.
     1. If you would like to run through quickstart interactively, you will need to copy `pRNN/examples/tutorial.ipynb` to your `prnn_tutorial` folder. This can be done with `rsync -r ../pRNN/examples/ .`
