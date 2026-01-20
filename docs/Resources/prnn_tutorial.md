@@ -9,8 +9,7 @@ There are some extra steps in managing the requirements needed for the [Predicti
 3. Clone the `pRNN` package into your `project` folder. This is accessible by typing `cd ~/../../project/levenstein/YOUR_NETID/`. This brings you to the `/gpfs/radev/project/levenstein/YOUR_NETID`.
     1. `git clone git@github.com:LevensteinLab/pRNN.git`
     2. 👁️ Watch the repository so you can be notified of any updates!
-4. Also clone these external repositories into that project directory:
-    1. Dan's fork of gym-minigrid (`git clone git@github.com:dlevenstein/gym-minigrid.git gym-minigrid-dan-fork`).
+4. Also clone the following repository into that project directory:
     2. Farama Foundation version of minigrid. This is the most up-to-date version. (`git clone git@github.com:Farama-Foundation/Minigrid.git`)
 5. Create a conda environment with Python 3.9.
     1. Misha doesn't come with Python 3.9 out of the box, and we need this version for later dependencies.
@@ -25,8 +24,7 @@ There are some extra steps in managing the requirements needed for the [Predicti
     1. `pip install "pip<24.1" setuptools==59.5.0 wheel==0.37.0`
     2. `pip install gym==0.21.0 --no-binary gym` 
     3. `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 --no-cache-dir`
-8. We'll also need to install the external repositories from step 3 into environment.
-    1. `pip3 install -e ~/../../project/levenstein/YOUR_NETID/gym-minigrid-dan-fork`
+8. We'll also need to install the external repository from step 3 into environment.
     2. `pip3 install -e ~/../../project/levenstein/YOUR_NETID/Minigrid`
 9. Install the `pRNN` package itself into the environment.
     1. Navigate to the repository, then `pip install -e .`
@@ -36,5 +34,5 @@ There are some extra steps in managing the requirements needed for the [Predicti
     3. If you run `jupyter kernelspec list`, you should see `prnn_tutorial` as an option.
     4. You may need to restart your VSCode or kernel here. 
         1. If you're on VSCode, you can do this fast with `Cmd + Shift + P` to open the Command Palette and then `Developer: Reload Window`.
-11. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://github.com/LevensteinLab/pRNN/blob/main/docs/quickstart.rst). This contains an example training run.
+11. Your environment should be all set to run example code provided with the package, or to start going through the tutorials. The quickstart tutorial can be found [here](https://prnn.readthedocs.io/en/latest/quickstart.html). This contains an example training run.
     1. If you would like to run through quickstart interactively, you will need to copy `pRNN/examples/tutorial.ipynb` to your `prnn_tutorial` folder. This can be done with `rsync -r ../pRNN/examples/ .`

@@ -13,7 +13,9 @@
     - Your NetID is a unique identifier for you in the system, and can also be used to log into the private *YaleSecure* WiFi network.
     - Emails typically follow `first.last@yale.edu`; you may need to wait for 20 minutes or more after your netID activation to access your email.
 - Set up multifactor authentication (MFA)
-    - Usually done through Duo, which you will need to accesss your email.
+    - Usually done through Duo, which you will need to access your email.
+    - Find additional information on how to set this up [here](https://cybersecurity.yale.edu/mfa). 
+    - If you'd like to change your 2FA device(s), you can navigate directly to [mfa.its.yale.edu](mfa.its.yale.edu) and sign in.
 - Get Yale ID card
     - [Multiple offices](https://idcenter.yale.edu/id-center-hours) are available to get an ID card printed. Note the hours!
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
