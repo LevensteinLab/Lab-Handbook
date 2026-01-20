@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://levensteinlab.github.io/lab-handbook/Resources/hpc/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>HPC - Levenstein Lab Handbook</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Levenstein Lab Handbook</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Policies</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Policies/code_software/" class="dropdown-item">Good Software</a>
+</li>
+                                    
+<li>
+    <a href="../../Policies/conferences_workshops/" class="dropdown-item">Conferences and Workshops</a>
+</li>
+                                    
+<li>
+    <a href="../../Policies/health_wellness/" class="dropdown-item">Health & Wellness</a>
+</li>
+                                    
+<li>
+    <a href="../../Policies/hours_remote_vacation/" class="dropdown-item">Hours & Remote Work</a>
+</li>
+                                    
+<li>
+    <a href="../../Policies/meetings/" class="dropdown-item">Meetings</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Resources</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../adobe/" class="dropdown-item">Adobe</a>
+</li>
+                                    
+<li>
+    <a href="../basic_github/" class="dropdown-item">Basic Github</a>
+</li>
+                                    
+<li>
+    <a href="../booking/" class="dropdown-item">Booking Rooms</a>
+</li>
+                                    
+<li>
+    <a href="../funding/" class="dropdown-item">Fellowships/Grants</a>
+</li>
+                                    
+<li>
+    <a href="../gen_ai/" class="dropdown-item">GenAI</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active" aria-current="page">HPC</a>
+</li>
+                                    
+<li>
+    <a href="../mailing_lists/" class="dropdown-item">Mailing Lists</a>
+</li>
+                                    
+<li>
+    <a href="../mental_health/" class="dropdown-item">Mental Health</a>
+</li>
+                                    
+<li>
+    <a href="../printers/" class="dropdown-item">Printing</a>
+</li>
+                                    
+<li>
+    <a href="../prnn_tutorial/" class="dropdown-item">pRNN Tutorial</a>
+</li>
+                                    
+<li>
+    <a href="../recommended_reading/" class="dropdown-item">Recommended Reading</a>
+</li>
+                                    
+<li>
+    <a href="../science_general/" class="dropdown-item">Doing Science</a>
+</li>
+                                    
+<li>
+    <a href="../travel/" class="dropdown-item">Travel</a>
+</li>
+                                    
+<li>
+    <a href="../vpn/" class="dropdown-item">VPN</a>
+</li>
+                                    
+<li>
+    <a href="../vs_code/" class="dropdown-item">VS Code</a>
+</li>
+                                    
+<li>
+    <a href="../writing/" class="dropdown-item">Writing</a>
+</li>
+                                    
+<li>
+    <a href="../purchases/" class="dropdown-item">Purchases</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../../onboarding/" class="nav-link">Onboarding</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../../contact/" class="nav-link">Contact</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../gen_ai/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../mailing_lists/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/LevensteinLab/Lab-Handbook/edit/master/docs/Resources/hpc.md" class="nav-link"><i class="fa-brands fa-github"></i> Edit on GitHub</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#getting-access-to-the-misha-hpc" class="nav-link">Getting access to the Misha HPC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="getting-access-to-the-misha-hpc">Getting access to the Misha HPC</h1>
+<p>As part of computational research, we will need to dispatch jobs to high-performance computing (HPC) clusters. Access to these clusters gives us stronger power for computationally-intensive tasks like training models. Running the same process on your local machine may take <em>much</em> more time.</p>
+<p>To get started visit this page for <a href="https://docs.ycrc.yale.edu/clusters/misha/#access-the-cluster">some info</a> about the HPC prepared by the Yale Center for Research Computing (YCRC) specifically for the Wu Tsai Institute. Please also review <a href="https://github.com/YaleWTI-CNMI/misha-2025-fall">this github repository</a> with tutorials made by Ms. Ping Luo, a senior staff member who works in our center to manage cluster use. It has more comprehensive information than the preliminary tutorial below.</p>
+<h3 id="instructions">Instructions</h3>
+<ol>
+<li>Fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLghL1gSHRkIQj73zPzvLCJ0sojm9aUHZLQGBD_auD054gqA/viewform?usp=send_form">form</a> to access the cluster, noting Dan as the PI from which to get access. You should get access in ~48 hours. </li>
+<li>Receive email from <code>hpc@yale.edu</code> with your username and instructions on how to login.</li>
+<li>Choose login method. <ol>
+<li>Access to Misha needs to be done through Secure Shell (SSH).</li>
+<li>Other clusters have a web interface for logging on (Bouchet, Grace, McCleary, and Milgram). Find the links for the platform, called Open OnDemand (OOD), <a href="https://docs.ycrc.yale.edu/clusters-at-yale/access/ood/">here</a>.</li>
+</ol>
+</li>
+<li>(<em>First time login only</em>) Generate your public and private ssh keys. These keys are used to authenticate you during the remote login (i.e. they tell the cluster that you're you.). Keep the private key a secret!<ol>
+<li>Instructions on how to do this can be found <a href="https://docs.ycrc.yale.edu/clusters-at-yale/access/ssh/">here</a>.</li>
+<li>Note: the example in the documentation uses the <em>RSA</em> encryption scheme, but using the <code>ssh-keygen</code> command on Macs without any additional argument will use the <em>Ed25519</em> encryption scheme. The key still works and will be stored in something like <code>id_ed25519.pub</code>.<ol>
+<li><em>Sidebar from Viggy: If you're interested in math, I'd highly recommend reading up on RSA. The RSA public/private key method works beause it's easy to multiply two large prime numbers together, but extremely hard to factor that product back into those primes!</em></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>(<em>First time login only</em>) Upload your <em>public</em> key to the <a href="https://sshkeys.ycrc.yale.edu/cgi-bin/sshkeys.py">SSH Key Uploader</a>. This allows the cluster to associate it with your netID, which you use to sign in.</li>
+<li>Login to the cluster.<ol>
+<li>Use the Terminal:<ol>
+<li>Type <code>ssh YOUR_NET_ID@misha.ycrc.yale.edu</code>. It will prompt you for your passcode. </li>
+<li>After you provide it, it will ask you choose a second authentication option. </li>
+<li>Type <code>1</code> to authenticate via a DUO push notification.</li>
+</ol>
+</li>
+<li>Use your IDE:<ol>
+<li>Open VSCode, and click the blue button in the bottom left corner of the screen. It looks like two chevron arrows pointing to each other.</li>
+<li>Click SSH, and Add New SSH Host</li>
+<li>Type <code>ssh YOUR_NET_ID@misha.ycrc.yale.edu</code></li>
+<li>If it asks you for a config file, select the one with the <code>.ssh/</code> path (often the first option). This tells VSCode where to look for your private key (which is still protected by your passcode).</li>
+<li>Enter your passcode when prompted.</li>
+<li>Type <code>1</code> to send a DUO push notification, and accept it.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Submit jobs!</li>
+<li>Type <code>exit</code> to close the connection.</li>
+</ol>
+<h3 id="about-the-hpc">About the HPC</h3>
+<ol>
+<li>Consists of multiple groups of computers called <strong>nodes</strong>.<ol>
+<li>Login node is shared between all users; handles all user logins and is usually excluded from running actual code jobs</li>
+<li>Compute nodes which are the majority of all the computers in the HPC; where the tasks are performed<ol>
+<li>Can run both <em>interactive</em> and <em>batch</em> jobs on compute notes. Interactive jobs are processes in which you can interactively run programs on the computer, useful for debugging and/or coding. Batch jobs are non-interactive jobs that are run by the node and returned back to you. These can be parallelized, and will also run regardless of whether you are logged in or not.</li>
+<li>You can have at most 4 interactive sessions at once.</li>
+</ol>
+</li>
+<li>Transfer nodes; used for transferring files, accessed via <code>ssh transfer</code></li>
+</ol>
+</li>
+<li>HPC has multiple "partitions", which are used for different purposes. There are also special use nodes.<ol>
+<li><code>devel</code> : default for interactive jobs</li>
+<li><code>day</code> : default for batch jobs</li>
+<li><code>week</code>: default for long jobs (&gt;24 hours)</li>
+<li><code>gpu</code>: nodes with GPU access</li>
+<li><code>bigmem</code>: nodes for jobs with large RAM/memory requirements</li>
+<li><code>mpi</code>: for highly-parallelized code</li>
+<li><code>pi_NAME</code>: PI and lab specific nodes available for purchace from YCPC</li>
+</ol>
+</li>
+</ol>
+<h3 id="cheat-sheet">Cheat Sheet</h3>
+<ul>
+<li>Interactive jobs:<ul>
+<li><code>salloc</code> to submit interactive job. Flags:<ul>
+<li><code>-p</code> or <code>--partition=</code> (default <code>devel</code>/interactive)</li>
+<li><code>-t</code> or <code>--time=</code> (DD-HH:MM:SS or DD-HH time limit)</li>
+<li><code>--mem-per-cpu=</code> (default 5gb per cpu)</li>
+</ul>
+</li>
+<li><code>module load</code> to load common software<ul>
+<li>also <code>module list</code> to list available software</li>
+<li><code>module purge</code> to remove all currently loaded software</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Example code:</p>
+<pre><code class="language-sh">salloc -t 1:00:00
+module load miniconda
+conda create -n env_name python=3.9 jupyter pandas
+conda activate env_name
+conda install pkg1 pkg2
+
+module load miniconda 
+conda activate env_name
+</code></pre>
+<ul>
+<li>
+<p>Batch jobs:</p>
+<ul>
+<li><code>sbatch</code> to submit batch job. Flags:<ul>
+<li><code>-j</code> or <code>--job-name=</code> (job name)</li>
+<li><code>-o</code> or <code>--output=</code> (output file name)</li>
+<li><code>--mail-user</code> (email address to receive alerts about job completions, default: Yale address)</li>
+<li><code>--mail-type=ALL</code> (receive email notifs at beginning and end of job)</li>
+</ul>
+</li>
+<li><code>squeue --me</code> (get status of all your submitted jobs)</li>
+<li><code>seff JOBID</code> (get job stats when done e.g. CPU usage, time run)</li>
+<li><code>scancel JOBID</code> (cancel job)</li>
+<li><code>htop -u NETID</code> (view all current processes under your name)</li>
+</ul>
+</li>
+<li>
+<p>Misc commands:</p>
+<ul>
+<li><code>getquota</code> (see remaining storage)</li>
+<li><code>dsq</code> for large numbers of identical jobs</li>
+</ul>
+</li>
+</ul>
+<p>Example code:</p>
+<pre><code class="language-bash">#!/bin/bash
+
+#SBATCH -J example_job
+#SBATCH -p dat
+#SBATCH -t 12:00:00
+#SBATCH --mail-type=ALL
+
+module purge
+module load miniconda
+conda activate my_env
+
+python my_python.py
+</code></pre>
+<h3 id="example-use-case-cloning-remote-repository">Example Use Case: Cloning Remote Repository</h3>
+<p>At first, attempting to clone a repository in the standard way (e.g. <code>git clone https://github.com/LevensteinLab/Lab-Handbook.git</code>) may not work. This is because GitHub doesn't know how to handle a request from a remote computer. You must first authenticate yourself. We can repeat the same process we used to authenticate ourselves for the cluster, but for GitHub, which offers the ability to add SSH keys.</p>
+<ol>
+<li>While logged into the cluster, again run <code>ssh-keygen</code>. Click enter to accept the default directory for where the keys will be stored.</li>
+<li>Choose a passphrase. You will need to remember this, as it provides access to your private key.</li>
+<li>Navigate to that directory and open the public key. This may look something like:<ol>
+<li><code>cd /gpfs/radev/home/vv266/.ssh/</code> followed by </li>
+<li><code>cat id_ed25519.pub</code></li>
+</ol>
+</li>
+<li>Copy that text and open your GitHub profile.</li>
+<li>Navigate to <strong>Settings</strong> &gt; <strong>SSH and GPG keys</strong> &gt;  <strong>New SSH key</strong>. Then paste your public key into the box.</li>
+<li>Return to the HPC and type <code>ssh -T git@github.com</code>. <ol>
+<li>After you type in your passphrase, you should see a message like <code>Hi vviggyy! You've successfully authenticated, but GitHub does not provide shell access.</code></li>
+</ol>
+</li>
+<li>You should now be able to clone repositories into the HPC environment.<ol>
+<li>When you want to do so, visit the repository website, click the green <code>&lt;&gt; Code</code> button, and tap "SSH" (NOT the HTTPS button!)</li>
+<li>Use this URL when cloning e.g. <code>git clone git@github.com:LevensteinLab/Lab-Handbook.git</code></li>
+</ol>
+</li>
+<li>Set up a conda environment like above to run it!</li>
+</ol>
+<h3 id="reference">Reference:</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=SaiXaC0jRjE&amp;t=2s">Introduction to HPC Clusters (YouTube Video)</a> (1:16 hr workshop video going over SLURM and how to log-in)</li>
+<li><a href="https://docs.ycrc.yale.edu/clusters-at-yale/">Getting Started page</a></li>
+<li><a href="https://docs.ycrc.yale.edu">Documentation Page</a>. Submit help requests or attend drop-in office hours (via Zoom) on <strong>Wednesdays at 11am-12pm</strong></li>
+<li>Check out info on all clusters offered by the <a href="https://docs.ycrc.yale.edu/clusters/">YCRC</a>. They're named after famous academics.</li>
+<li>Any potential system outages can be checked <a href="https://research.computing.yale.edu/system-status">here</a>.</li>
+<li><a href="https://docs.ycrc.yale.edu/clusters-at-yale/job-scheduling/">Common SLURM commands</a> for interacting with jobs and the scheduler</li>
+<li><a href="https://research.computing.yale.edu/computing-resources/hpc-policies">YCRC HPC Policies</a> (<em>make sure to read this before requesting an account</em>)</li>
+</ul></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
