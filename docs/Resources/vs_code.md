@@ -16,3 +16,6 @@ To use VS Code with the cluster off campus, you will need to use a VPN (see `Res
     - If it's your first time using the VS Code proxy, follow the instructions listed to configure your `~/.ssh/config` file
 3. Once the proxy is running, open the Command Palette in VS Code (Mac: Cmd + Shift + P; Windows: Ctrl + Shift + P) and type `Remote-SSH: Connect to Host...`, then choose `vscode-server`.
 4. Complete the 2-factor authentication using Duo or a phone call (do this quickly or it will time out). If successful you should see `SSH: vscode-server` on the bottom left corner.
+
+Some more useful information:
+* If you're troubleshooting training networks or doing something similarly intensive, it can be useful to start a VSCode Proxy session on the  `gpu_devel` partition. This allows you to use a GPU with some limits on processing power: e.g. you can use up to 16 GiB of memory per CPU core/node and 1 GPU per node for up to 6 hours. This type of partition is great for troubleshooting because you won't get dinged for using the partition inefficiently (which does happen e.g. with the `gpu` partition).
