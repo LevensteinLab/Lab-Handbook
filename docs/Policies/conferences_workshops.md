@@ -14,7 +14,7 @@ See [Resources - Travel](https://levensteinlab.github.io/Lab-Handbook/Resources/
 
 # Workshops/Summer schools
 
-If there's a summer school or educational workshop that would be good for your career/research, I'm quite happy for you to go and will support your application/pay for registration/travel/etc. I only ask that:
+If there's a summer school or educational workshop that would be good for your career/research, I'm quite happy for you to go and will support your application/pay for registration/travel/etc. Some common ones are the Woods Hole Methods in Computational Neuroscience course, Kavli Mathematical Methods in Computational Neuroscience, and Cajal course in Computational Neuroscience. Often these are most useful to take halfway through your PhD, or at the beginning of your postdoc to pick up new techniques. If you do attend, I only ask that:
 
 1) if they have the option to apply for grants to waive registration fees that you apply for them,
 
