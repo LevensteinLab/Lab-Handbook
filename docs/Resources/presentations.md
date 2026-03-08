@@ -40,6 +40,10 @@ This is the single most common thing that goes wrong in scientific presentations
 
 This might feel slow, but your audience will thank you. They can't interpret your results if they don't understand the plot, and they almost certainly don't understand the plot as well as you do. Similarly, don't just show summary statistics, build to them. First show what a single "trial" looks like (or whatever the equivalent of a trial is in your case - a learning curve, a simulation, an example). Then show how the summary statistic is calculated from the trial. Then show the statistics over all data points.
 
+More generally: **bring in elements as you talk about them.** Don't throw up a multi-panel figure and then narrate it — reveal each piece as you discuss it, so the audience knows exactly what to look at. If everything appears at once, they're reading ahead while you're still explaining panel A.
+
+**Avoid jargon, describe results in plain terms first.** It's tempting to lean on jargon - e.g. calling something "consolidation" or "generalization" the moment you show it. But your audience will follow much better if you first describe what's actually happening in the data, and *then* connect it to the technical label. Treat jargon as a conclusion, not a shorthand.
+
 
 ### Mindset and Delivery
 
@@ -58,7 +62,11 @@ For conference talks, job talks, or any presentation to an external audience, th
 
 **Start with a hook.** A story, a picture, a question, a provocative claim — something that grabs attention and motivates the problem you're going to address. Then transition: "Why do I tell this story?" and preview what you're going to talk about.
 
-**Make your story linear.** Don't assume people remember what you said 30 minutes ago. Each section should flow naturally from the one before it, and if you need to refer back to something, remind the audience.
+**Your intro should pose a question that is answered by the talk.** It's not enough to just motivate why you started working on something — the introduction should set up a specific question that the audience is waiting to see resolved. Everything that follows should feel like it's building toward that answer.
+
+**Have your self-introduction ready.** It sounds trivial, but the first 10 seconds set the tone. Know what you're going to say about yourself and your lab so you start with confidence, not fumbling.
+
+**Make your story linear.** Don't assume people remember what you said 30 minutes ago. Each section should flow naturally from the one before it, and if you need to refer back to something, remind the audience. And don't say "I'll come back to this later" — either tell us now or don't mention it at all.
 
 
 ### Preparing a Presentation
