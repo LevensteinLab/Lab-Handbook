@@ -9,23 +9,28 @@ nav:
     - Hours & Remote Work: Policies/hours_remote_vacation.md
     - Meetings: Policies/meetings.md
   - Resources:
-    - Adobe: Resources/adobe.md
-    - Basic Github: Resources/basic_github.md
-    - Booking Rooms: Resources/booking.md
-    - Fellowships/Grants: Resources/funding.md
-    - Claude: Resources/claude_teams.md
-    - GenAI: Resources/gen_ai.md
-    - HPC: Resources/hpc.md
-    - Mailing Lists: Resources/mailing_lists.md
-    - Mental Health: Resources/mental_health.md
-    - Printing: Resources/printers.md
-    - pRNN Tutorial: Resources/prnn_tutorial.md
-    - Recommended Reading: Resources/recommended_reading.md
-    - Doing Science: Resources/science_general.md
-    - Travel: Resources/travel.md
-    - VPN: Resources/vpn.md
-    - VS Code: Resources/vs_code.md
-    - Writing: Resources/writing.md
-    - Purchases: Resources/purchases.md
+    - Doing Science:
+      - General: Resources/science_general.md
+      - Writing: Resources/writing.md
+      - Presentations: Resources/presentations.md
+      - Fellowships/Grants: Resources/funding.md
+      - GenAI: Resources/gen_ai.md
+    - Training:
+      - Recommended Reading: Resources/recommended_reading.md
+      - pRNN Tutorial: Resources/prnn_tutorial.md
+    - Tools & Setup:
+      - HPC: Resources/hpc.md
+      - VS Code: Resources/vs_code.md
+      - VPN: Resources/vpn.md
+      - Basic Github: Resources/basic_github.md
+      - Adobe: Resources/adobe.md
+      - Printing: Resources/printers.md
+      - Claude: Resources/claude_teams.md
+    - Lab Logistics:
+      - Travel: Resources/travel.md
+      - Purchases: Resources/purchases.md
+      - Booking Rooms: Resources/booking.md
+      - Mailing Lists: Resources/mailing_lists.md
+      - Mental Health: Resources/mental_health.md
   - Onboarding: onboarding.md
   - Contact: contact.md
