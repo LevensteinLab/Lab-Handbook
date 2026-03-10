@@ -7,6 +7,7 @@ There has been immense progress in the last 2-3 years regarding the use of langu
 3. [Effective and Responsible Use of AI in research (University of Washington, Georgia Tech)](https://grad.uw.edu/advice/effective-and-responsible-use-of-ai-in-research/)
 4. [Slide from Patrick Mineault on potential pros of AI use (Dan on Bluesky)](https://bsky.app/profile/dlevenstein.bsky.social/post/3lxz5nnhfi22w)
 5. [Should neuroscientists 'vibe code'?(Benjamin Dichter, The Transmitter)](https://www.thetransmitter.org/craft-and-careers/should-neuroscientists-vibe-code/)
+6. [AI agents are aeroplanes for the mind: five ways to ensure that scientists are responsible pilots](https://www.nature.com/articles/d41586-026-00665-y)
 
 ### GitHub Copilot Access
 As university-affiliated researchers, we may have access to AI completion tools such as GitHub Copilot. The Pro tier provides a 30-day free trial for researchers/educators. Here are the steps to get access:
