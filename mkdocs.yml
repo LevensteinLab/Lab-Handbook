@@ -13,6 +13,7 @@ nav:
     - Writing: Resources/writing.md
     - Presentations: Resources/presentations.md
     - Fellowships/Grants: Resources/funding.md
+    - Claude: Resources/claude_teams.md
     - GenAI: Resources/gen_ai.md
   - Training:
     - Recommended Reading: Resources/recommended_reading.md
