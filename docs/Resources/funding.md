@@ -9,6 +9,7 @@ Early Postdoc
 - [Life Sciences Research Fund (LSRF)](https://lsrf.org/apply/)
 - [Helen Hay Whitney](https://hhwf.org/research-fellowship/)
 - [Jane Coffin Childs](https://www.jccfund.org/eligibilty-criteria/)
+- [Future House](https://www.futurehouse.org/fellowship)
 
 Transition to Independence (Mid-Late Postdoc)
 - [Borroughs Wellcome CASI](https://www.bwfund.org/grants/interfaces-in-science/career-awards-at-the-scientific-interface/)
