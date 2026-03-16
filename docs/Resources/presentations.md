@@ -53,6 +53,8 @@ When presenting, your job is not to get through your slides. It's to make sure e
 
 **Watch good talks and PAY ATTENTION.** You'll learn more about presenting from actively watching great speakers than from any list of tips (including this one). Pay attention to how they structure their story, how they use their slides, how they handle transitions, how they explain figures.
 
+**Present to the least knowledgable person in the room.** A common mistaken assumption most students have is that everyone else knows everything they know, and more. However, most of your audience (including professors!) will not know everything you know about your project or its background. If the students in the audience come away understanding your project, its motivation, and results, that's a win. Present as if you're presenting for THEM, not as if you're presenting to the one expert.
+
 
 ### Structuring a Talk (Beyond Lab Meeting)
 
