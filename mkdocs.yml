@@ -3,6 +3,7 @@ site_url: https://levensteinlab.github.io/lab-handbook
 repo_url: https://github.com/LevensteinLab/Lab-Handbook
 nav:
   - Policies:
+    - Communication: Policies/communication.md
     - Authorship Guidelines: Policies/authorship_guidelines.md
     - Good Software: Policies/code_software.md
     - Conferences and Workshops: Policies/conferences_workshops.md

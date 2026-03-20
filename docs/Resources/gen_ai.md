@@ -9,8 +9,11 @@ There has been immense progress in the last 2-3 years regarding the use of langu
 5. [Should neuroscientists 'vibe code'?(Benjamin Dichter, The Transmitter)](https://www.thetransmitter.org/craft-and-careers/should-neuroscientists-vibe-code/)
 6. [AI agents are aeroplanes for the mind: five ways to ensure that scientists are responsible pilots](https://www.nature.com/articles/d41586-026-00665-y)
 
+### Claude Teams Access
+The lab has a Claude Teams subscription. See the [Claude Teams page](https://levensteinlab.github.io/Lab-Handbook/Resources/claude_teams/) for how to join and get started.
+
 ### GitHub Copilot Access
-As university-affiliated researchers, we may have access to AI completion tools such as GitHub Copilot. The Pro tier provides a 30-day free trial for researchers/educators. Here are the steps to get access:
+Note: for AI-assisted coding, we recommend using our lab's [Claude Teams](https://levensteinlab.github.io/Lab-Handbook/Resources/claude_teams/) account (which includes Claude Code) instead of Copilot. That said, as university-affiliated researchers, we may have access to AI completion tools such as GitHub Copilot. The Pro tier provides a 30-day free trial for researchers/educators. Here are the steps to get access:
 
 1. Visit the [GitHub documentation](https://docs.github.com/en/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro) on Copilot Pro access.
 2. Click on "Apply to GitHub Education as a teacher".
