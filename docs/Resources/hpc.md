@@ -49,6 +49,9 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
     5. `mpi`: for highly-parallelized code
     6. `pi_NAME`: PI and lab specific nodes available for purchace from YCPC
 
+### QOS-Based GPU Allocation
+By default, jobs are submitted with standard priority. This means that when cluster resources are scarce, these jobs can be preempted, or terminated, in favor of high-priority jobs. This isn't generally a problem for shorter jobs, but for long jobs that are resource-intensive, it may make sense to submit a high-priority job using a SLURM mechanism called QOS (Quality of Service). Our lab has a certain number of guaranteed resources which you can gain access by using the `--qos=qos_levenstein` along with `salloc` or `sbatch`. See the [Misha Guide](https://ood-misha.ycrc.yale.edu/public/misha/04-qos.html) for more info. It's also recommended to use checkpoints in case a job does get terminated.
+
 ### Cheat Sheet
 
 * Interactive jobs:
