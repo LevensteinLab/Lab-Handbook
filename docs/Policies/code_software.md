@@ -16,7 +16,7 @@ Here's how we may format our code as a lab:
 ### Conventions
 Patrick Mineault's code handbook above is a must-read before you start coding. It reviews the best ways to set up your project, to maintain clarity and cleanliness, to test your code, and to document your code as well. The handbook is the best way to learn these conventions, especially when it comes to efficiency and testing, which rely on great examples. However a few helpful tips to get you started in the right direction
 
-- Use `git` often, often more than you think you should. See `Resources and How-Tos/basic_github.md` for additional information.
+- Use `git` often, often more than you think you should. See the [basic GitHub tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) for additional information.
 - Setup your repository correctly, from the beginning.
     - Mineault's base directory structure works really well to keep the inputs and outputs of your code separate:
         - `data` folder: raw input data

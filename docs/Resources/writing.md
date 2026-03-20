@@ -18,10 +18,10 @@ because writing is a thinking tool as much as it’s a communication tool
 A heads up: when you get a draft back from me, it will likely have a lot of red ink. 
 [More red ink is good](https://x.com/gbosslet/status/1109544049583841280). 
 Make sure to give yourself, and me, enough time to work on drafts together 
-(e.g. I want to see abstract drafts a week before conference submission). 
-For any document you submit, expect a lot of comments/suggestions and few rounds of back-and-forth editing. 
-This is a dialogue of iterative, collective development of your document, your project, and your abilities as a writer; 
-not a corrective exercise. 
+(e.g. I want to see abstract drafts a week before [conference](https://levensteinlab.github.io/Lab-Handbook/Policies/conferences_workshops/) submission). 
+For any document you submit, expect a lot of comments/suggestions and few rounds of back-and-forth editing.
+This is a dialogue of iterative, collective development of your document, your project, and your abilities as a writer;
+not a corrective exercise. See also the [authorship guidelines](https://levensteinlab.github.io/Lab-Handbook/Policies/authorship_guidelines/) for how we handle co-authorship.
 I prefer to use google doc because I think it has the best tools for co-writing.
 
 **Tips and tricks**

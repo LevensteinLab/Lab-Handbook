@@ -6,7 +6,7 @@ If you are presenting your work, the lab will fund your registration and travel 
 
 Please plan to **send me a draft of your abstract one week before deadline**. This gives us enough time for a few rounds of edits and discussion, and to develop the story together. Your work, and your abstract acceptance rate, will thank you. I’ll note that you often feel like your project is not-quite-ready when you start writing your abstract, and that the abstract writing process is often when the project gets developed to the point where it’s ready to submit… long story short, don’t be afraid to write an abstract even if you feel you’re not ready :) 
 
-As with a paper submission, nothing goes out without all co-authors seeing and approving the final version.
+As with a paper submission, nothing goes out without all co-authors seeing and approving the final version (see [authorship guidelines](https://levensteinlab.github.io/Lab-Handbook/Policies/authorship_guidelines/)).
 
 The exact number of conferences you should expect to present at per year will depend on your career stage, and status of your project. IMO the best times to present are when you're halfway through a project, and trying to figure out what the story is, and just after you've posted a preprint.
 
@@ -20,4 +20,4 @@ If there's a summer school or educational workshop that would be good for your c
 
 2) that you take them seriously (they're a lot of fun, and you'll meet friends and colleagues you'll have for the rest of your career. but they're also a lot of material to learn in a short amount of time), and
 
-3) that you make an effort to think about how you can bring back the things you learn to your work in the lab. at the very least you'll have to give a "what I learned at summer camp" presentation in lab meeting 🏕️
+3) that you make an effort to think about how you can bring back the things you learn to your work in the lab. at the very least you'll have to give a "what I learned at summer camp" presentation in lab meeting 🏕️ (See [presentations guide](https://levensteinlab.github.io/Lab-Handbook/Resources/presentations/) for tips.)
