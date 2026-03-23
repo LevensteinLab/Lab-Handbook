@@ -20,4 +20,6 @@ A few norms worth making explicit:
 - **#lunch** — coordinating lunch plans
 - **#seminars-events** — upcoming seminars, talks, and events worth attending
 
+**Handbook updates.** When changes are made to the lab handbook, a pull request will be submitted and all lab members will be requested as reviewers — you'll get an email notification and a message in #lab-handbook. Only one person needs to approve a PR, but the notification is a prompt for everyone to look over the changes. So: (1) when you get this notification, go look over the changes, and (2) if no one else has approved the PR yet, please approve it. For more on how the handbook works and how to contribute, see the [lab handbook page](https://levensteinlab.github.io/Lab-Handbook/Policies/lab_handbook/).
+
 **A general note on asking questions.** There is no such thing as a dumb question in this lab. If you're stuck, confused, or just want to think something through with someone, ask. Ask me, ask your labmates, post in Slack. One of the things I value most about being in a lab is that we can think together — and that only works if people are willing to say "I don't understand this" or "can someone help me think through this?"
