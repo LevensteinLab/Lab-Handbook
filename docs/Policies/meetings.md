@@ -19,6 +19,8 @@ it prompts you to think of where you’re at and where you should go next,
 and you'll have many slides to start from when you have to present your work (e.g. in lab meeting). 
 Over time, you become quite good at quickly putting together and presenting effective slide presentations.
 
+During these meetings, it's likely that I'm going to write things on the board - you should take notes, especially on the parts that translate into to do items for you over the next week.
+
 Of course, we’re not always able to have new results for each meeting - 
 sometimes we’ve been productive, but just thinking; sometimes life has happened and we haven’t made any progress on our projects. 
 That’s ok, and I’m always happy to chat about anything, either why you think things aren’t working, some ideas you've been thinking about, or just generally how things are going. 
