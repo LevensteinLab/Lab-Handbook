@@ -82,6 +82,7 @@ conda activate env_name
         * `-o` or `--output=` (output file name)
         * `--mail-user` (email address to receive alerts about job completions, default: Yale address)
         * `--mail-type=ALL` (receive email notifs at beginning and end of job)
+        * `--requeue` (automatically resubmit if your job gets preempted)
     * `squeue --me` (get status of all your submitted jobs)
     * `seff JOBID` (get job stats when done e.g. CPU usage, time run)
     * `scancel JOBID` (cancel job)
