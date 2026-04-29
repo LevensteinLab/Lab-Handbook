@@ -21,7 +21,7 @@
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
         - Medical School ID Center, 333 Cedar St (**M-Th, 8am-12pm**) for walk-ins
     - Get 100 College/WTI card access (note: it will take about 24 hours for your card to gain access)
-        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; ideally email the WTI facilities manager, [Matt Milano](mailto:matthew.milano@yale.edu).
+        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; you can either email [Liz Wallack](mailto:elizabeth.wallack@yale.edu) in the Neuro department admin or the WTI facilities manager, [Matt Milano](mailto:matthew.milano@yale.edu). Make sure you request access to the neurocomputation suite (doors labeled 1136 kitchenette and 1120 collab space) - sometimes they give access to the rest of the building but not the doors to our lab space...
 - Familiarize yourself with campus, and how to get to 100 College Institute
     - Multiple areas of campus (Old Campus, Science Hill, etc)
     - The Wu Tsai Institute is located on the 11th floor at 100 College Street. The building is owned by Alexion Pharmaceuticals (owned by AstraZeneca)
@@ -60,9 +60,9 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started (1-2 Weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code. 
+- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code.
     - If you don't have a preferred IDE, Get VS Code and do the VS code tutorial
-    - Follow either the ANN path or the data analysis path below
+    - Follow one of the paths below, depending on your research topic/methods:
  
     **ANNs path**:
     
@@ -84,3 +84,6 @@ Discuss with Dan your interests and potential first projects. In addition to any
     - Consider borrowing [Dynamical Systems in Neuroscience](https://direct.mit.edu/books/monograph/2589/Dynamical-Systems-in-NeuroscienceThe-Geometry-of) or [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) from the lab library
     - Pick (with Dan) a dynamical systems model related to your project, and replicate its phase planes and bifurcation analysis using [phaseportrait](https://github.com/phaseportrait/phaseportrait) and [PyCoBi](https://pycobi.readthedocs.io/en/latest/)
 
+    **Other path**:
+  
+    - If your research topic doesn't it in any of these paths, talk to Dan about 
