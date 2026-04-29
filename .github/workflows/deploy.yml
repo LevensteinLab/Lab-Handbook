@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs  # or your theme/plugins
+          pip install -r requirements.txt
 
       - name: Deploy to GitHub Pages
         run: |

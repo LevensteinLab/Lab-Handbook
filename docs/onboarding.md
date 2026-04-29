@@ -13,7 +13,9 @@
     - Your NetID is a unique identifier for you in the system, and can also be used to log into the private *YaleSecure* WiFi network.
     - Emails typically follow `first.last@yale.edu`; you may need to wait for 20 minutes or more after your netID activation to access your email.
 - Set up multifactor authentication (MFA)
-    - Usually done through Duo, which you will need to accesss your email.
+    - Usually done through Duo, which you will need to access your email.
+    - Find additional information on how to set this up [here](https://cybersecurity.yale.edu/mfa). 
+    - If you'd like to change your 2FA device(s), you can navigate directly to [mfa.its.yale.edu](mfa.its.yale.edu) and sign in.
 - Get Yale ID card
     - [Multiple offices](https://idcenter.yale.edu/id-center-hours) are available to get an ID card printed. Note the hours!
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
@@ -36,7 +38,7 @@
 
 **Your first day**
 
-- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA)
+- [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA). You'll be added to some channels, but take a look through the channels and join any that interest you!
 - Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe12BBIXdFappFJ2YZ-p2TmYv3zWBlScogv6I2Ko2xDxNuWVA/viewform) to get access to the Wu Tsai Institute slack.
 - Familiarize yourself with Lab policies, practices, and expectations. You don’t need to read the whole thing, but do read over the expectations for your position in the lab and [working hours, remote working, and vacation](https://levensteinlab.github.io/Lab-Handbook/Policies/hours_remote_vacation/)
 - Send Viggy a preferred email for the shared lab Google Calendar. You'll receive read & write access to see & add events. We also have an slack integration set up to send reminders for upcoming events.
@@ -45,7 +47,7 @@
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - [Basic Github tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
-    - Your first PR: [Update the lab handbook](https://github.com/LevensteinLab/Lab-Handbook) to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/)
+    - Your first PR: [Update the lab handbook](https://github.com/LevensteinLab/Lab-Handbook) to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/). See the [lab handbook page](https://levensteinlab.github.io/Lab-Handbook/Policies/lab_handbook/) for how contributions work.
 - Join [Mailing lists/groups at Yale](https://levensteinlab.github.io/Lab-Handbook/Resources/mailing_lists/)
 
 **First readings (first week)**:
@@ -64,9 +66,9 @@ Discuss with Dan your interests and potential first projects. In addition to any
  
     **ANNs path**:
     
-    - Your first project: PyTorch Tutorials (https://docs.pytorch.org/tutorials/, https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-        - [Set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
-        - By the end of this, you should have trained a multi-layer perceptron (MLP) to solve fMNIST
+    - Your first project: Complete the [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) PyTorch Tutorial.
+        - [First set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
+        - By the end of this tutorial, you should have trained a multi-layer perceptron (MLP) to solve fMNIST.
         - Next, modify the network in some way you find interesting.
     - Get set up on the [misha compute cluster and learn how to use it](https://levensteinlab.github.io/Lab-Handbook/Resources/hpc/).
     - Your second project: [pRNN Tutorials](https://levensteinlab.github.io/Lab-Handbook/Resources/prnn_tutorial/)

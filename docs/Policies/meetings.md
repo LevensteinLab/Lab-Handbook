@@ -19,6 +19,8 @@ it prompts you to think of where you’re at and where you should go next,
 and you'll have many slides to start from when you have to present your work (e.g. in lab meeting). 
 Over time, you become quite good at quickly putting together and presenting effective slide presentations.
 
+During these meetings, it's likely that I'm going to write things on the board - you should take notes, especially on the parts that translate into to do items for you over the next week.
+
 Of course, we’re not always able to have new results for each meeting - 
 sometimes we’ve been productive, but just thinking; sometimes life has happened and we haven’t made any progress on our projects. 
 That’s ok, and I’m always happy to chat about anything, either why you think things aren’t working, some ideas you've been thinking about, or just generally how things are going. 
@@ -36,13 +38,15 @@ I am always happy to discuss results: positive or negative, challenges you’re 
 or anything else you want to talk about related to your project, career, or science in general. 
 You can always message me on slack, and if my door is open, please come in!
 
+One thing worth mentioning: when you share plots or results on slack between meetings, please send some interpretation along with them. Point out what you notice, what you think it means, potential caveats, and what you're thinking of doing next. It's tempting (and very easy on slack) to just drop a figure with no comment, but even a few sentences of written analysis makes the conversation much more useful — it prompts you to think through what you're seeing, and it gives me something specific to respond to. And for what it's worth, seeing and discussing your plots is one of the best parts of this job, so don't be shy about sharing (: (See also: [Communication](https://levensteinlab.github.io/Lab-Handbook/Policies/communication/).)
 
-### Journal Club
 
-Journal clubs and lab buisness meetings are every Thursday, at 10AM.
+### Lab Meeting
 
-**Format:**
+Lab meeting is every Thursday at 10AM. We follow a rotation where each person alternates between presenting a research update and picking a paper for journal club. The schedule is posted in the #lab-meeting channel on Slack.
 
-- We follow a rotation picking a paper to read. Paper should be sent to the group 1 week before the journal club (i.e. EOD the previous Thursday). There will usually be many interesting papers to pick from in the #papers channel on slack.
-- Each lab member is assigned a figure or two to walk the group through. (This approach makes sure we all read the paper, and avoids the trap of one person reading and presenting while others do not engage.)
-- You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you did not understand. If there are supplemental figures or methods associated with your figure, you should be familiar with those as well. It's OK to not understand everything fully - the point of journal club is to talk through and learn together.
+**Research presentations** are a chance to get feedback, practice presenting, and keep everyone up to date on what's happening in the lab. See the [presentations guide](https://levensteinlab.github.io/Lab-Handbook/Resources/presentations/) for tips on giving a good lab meeting talk.
+
+**Journal club** works a bit differently from the standard format: one person picks the paper, but everyone reads it, and each lab member is assigned a figure or two to walk the group through. You should come prepared to explain your assigned figure (no slides needed), answer questions about it, and ask the group about anything you didn't understand. If there are supplemental figures or methods associated with your figure, you should be familiar with those as well. It's OK to not understand everything fully — the point of journal club is to talk through and learn together. There will usually be many interesting papers to pick from in the #papers channel on Slack.
+
+The Geiller lab also has lab meeting on Mondays at 9AM, and everyone in our group is welcome to join. If you're interested in hippocampal circuits, I'd encourage you to sit in on theirs as well — it's a great way to broaden your exposure and build connections across labs.
