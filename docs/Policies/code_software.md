@@ -37,3 +37,6 @@ Patrick Mineault's code handbook above is a must-read before you start coding. I
 
 ### VS Code
 VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly customizable via extensions, and has great remote development support (which is important when working with the cluster). You can download it [here](https://code.visualstudio.com/Download). If you are unfamiliar with VS Code/IDEs in general, see the [VS Code tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/vs_code) for more info on how to get started.
+
+### Claude Code
+The lab has a [Claude Teams](https://levensteinlab.github.io/Lab-Handbook/Resources/claude_teams/) account. We're all still figuring out together how to use this quickly-changing tool to do quality research, but one thing it can be good at is helping maintain code organization and quality. This section will need to be updated over the next few months as the lab develops our workflows and practices around Claude. Please explore how you can best use these tools, and discuss with other members of the lab.
