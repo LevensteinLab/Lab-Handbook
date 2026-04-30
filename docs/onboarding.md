@@ -21,7 +21,7 @@
         - Yale Central ID Center, 57 Lock St (**M-F, 8am-4pm**), walk-in visits accepted but appointments are encouraged.
         - Medical School ID Center, 333 Cedar St (**M-Th, 8am-12pm**) for walk-ins
     - Get 100 College/WTI card access (note: it will take about 24 hours for your card to gain access)
-        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; ideally email the WTI facilities manager, [Matt Milano](mailto:matthew.milano@yale.edu).
+        - Note that a Yale ID card does NOT automatically provide access to 100 College/WTI. You must request access seaparately; you can either email [Liz Wallack](mailto:elizabeth.wallack@yale.edu) in the Neuro department admin or the WTI facilities manager, [Matt Milano](mailto:matthew.milano@yale.edu). Make sure you request access to the neurocomputation suite (doors labeled 1136 kitchenette and 1120 collab space) - sometimes they give access to the rest of the building but not the doors to our lab space...
 - Familiarize yourself with campus, and how to get to 100 College Institute
     - Multiple areas of campus (Old Campus, Science Hill, etc)
     - The Wu Tsai Institute is located on the 11th floor at 100 College Street. The building is owned by Alexion Pharmaceuticals (owned by AstraZeneca)
@@ -47,7 +47,7 @@
 - Join [Levenstein Lab github organization](https://github.com/LevensteinLab) - send Dan your github username and he'll add you
     - [Basic Github tutorial](https://levensteinlab.github.io/Lab-Handbook/Resources/basic_github/) - make your github account, learn to make a PR.
     - Follow the lab handbook repository so you get notified of future updates to the handbook, and have the opportunity to read and discuss them
-    - Your first PR: [Update the lab handbook](https://github.com/LevensteinLab/Lab-Handbook) to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/). See the [lab handbook page](https://levensteinlab.github.io/Lab-Handbook/Policies/lab_handbook/) for how contributions work.
+    - Your first PR: [Update the lab handbook](https://github.com/LevensteinLab/Lab-Handbook) to improve something that was unclear or missing up until now. Add your contact information to [contact.md](https://levensteinlab.github.io/Lab-Handbook/contact/). Please read the [lab handbook page](https://levensteinlab.github.io/Lab-Handbook/Policies/lab_handbook/) for more information about the lab handbook and how contributions work.
 - Join [Mailing lists/groups at Yale](https://levensteinlab.github.io/Lab-Handbook/Resources/mailing_lists/)
 
 **First readings (first week)**:
@@ -60,11 +60,11 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
 **Getting started (1-2 Weeks)**:
 
-- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code. 
+- Read about the [Lab Code and Software Practices](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/), and the introduction of the [good research code handbook](https://goodresearch.dev/index.html). We don’t follow this religiously, but it’s a good place to start. Something to remember: the main outputs of your work in the lab will be *ideas*, *figures*, and *code*. Of those, your code is unique - it's your primary research tool and its the best way for other people (including your future self) to be able reproduce and build on your work. Thus, it behooves you to invest some energy in writing good code.
     - If you don't have a preferred IDE, Get VS Code and do the VS code tutorial
-    - Follow either the ANN path or the data analysis path below
+    - Follow one of the paths below, depending on your research topic/methods:
  
-    **ANNs path**
+    **ANNs path**:
     
     - Your first project: Complete the [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) PyTorch Tutorial.
         - [First set up a project repository](https://levensteinlab.github.io/Lab-Handbook/Policies/code_software/) in which you'll do the tutorial - THIS IS THE MOST IMPORTANT STEP. Setting up a project repository, with its own environment and specified dependencies, will save you infinite headaches in the future. Get in the practice now.
@@ -78,4 +78,12 @@ Discuss with Dan your interests and potential first projects. In addition to any
     **Data analysis path**:
     
     - Your first project: discuss with Dan the data you'd like to work with and choose your own adventure ;)... this path is still under construction. Consider working with [pynapple](https://pynapple.org/index.html), which is a good package for working with neural timeseries data and has some tutorials.
+ 
+    **Dynamical systems path**:
 
+    - Consider borrowing [Dynamical Systems in Neuroscience](https://direct.mit.edu/books/monograph/2589/Dynamical-Systems-in-NeuroscienceThe-Geometry-of) or [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) from the lab library
+    - Pick (with Dan) a dynamical systems model related to your project, and replicate its phase planes and bifurcation analysis using [phaseportrait](https://github.com/phaseportrait/phaseportrait) and [PyCoBi](https://pycobi.readthedocs.io/en/latest/)
+
+    **Other path**:
+  
+    - If your research topic doesn't it in any of these paths, talk to Dan.
