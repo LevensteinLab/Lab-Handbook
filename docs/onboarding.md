@@ -86,4 +86,4 @@ Discuss with Dan your interests and potential first projects. In addition to any
 
     **Other path**:
   
-    - If your research topic doesn't it in any of these paths, talk to Dan about 
+    - If your research topic doesn't it in any of these paths, talk to Dan.
