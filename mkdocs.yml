@@ -35,5 +35,7 @@ nav:
       - Booking Rooms: Resources/booking.md
       - Mailing Lists: Resources/mailing_lists.md
       - Mental Health: Resources/mental_health.md
+    - Admin:
+      - INP Resources: Resources/inp_resources.md
   - Onboarding: onboarding.md
   - Contact: contact.md
