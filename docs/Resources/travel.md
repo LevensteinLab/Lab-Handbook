@@ -17,9 +17,16 @@ Update 6/14: booking travel will need to be done with admin assistance. Contact 
 
 Flights, hotels, and trains go through Concur as above, but some conference costs don't fit that system. Registration and abstract submission usually have to be done through your own account on the conference's website. SfN is the classic example: you submit the abstract, enter authors and topics, link your group to the rest of the lab, and pay registration, all from your personal SfN account.
 
-You have two options here:
+You have three options here:
 
-- **Department Purchasing card.** Reach out to Liz (elizabeth.wallack@yale.edu) and she'll coordinate its use for your specific registration or submission. The card can't be used to book travel, but it's the right tool for registration-type purchases.
+- **Lab Purchasing card.** Speak with Dan about using the lab card. It can be used for conference/regsitration purchases, but it must remain with Dan (i.e. don't take it anywhere or save the card information).
+- **Department Purchasing card.** Reach out to Liz (elizabeth.wallack@yale.edu) and she'll coordinate its use for your specific registration or submission. The card can't be used to book travel, but it can also be used for registration-type purchases.
 - **Your own card, then reimbursement.** Alternatively, pay with your personal credit card and submit for reimbursement, also through Liz (elizabeth.wallack@yale.edu).
 
-Either way, check in with me first so we know what's being spent against the lab.
+Whichever option you choose, check in with me first so we know what's being spent against the lab. You may be asked for additional information before the purchase is approved. The department requests the following info if you are presenting a poster at a conference:
+
+- Business Purpose (e.g. "SfN 2026 membership purchase, abstract submission fee")
+- Dates (e.g. November 14th - November 18th)
+- Location (e.g Washington D.C.)
+- Talk Title (name of your poster or presentation)
+- Receipts (ensure you are forwarding any eReceipts or scanning any physical receipts you get, for confirmation of purchase)
