@@ -11,5 +11,8 @@ Wu Tsai Institute, Center for Neurocomputation and Machine Intelligence
 | Daniel Levenstein | Primary Investigator | daniel.levenstein@yale.edu | 
 | Andrea Cumpelik | Postdoctoral Researcher | andrea.cumpelik@yale.edu |
 | Viggy Vanchinathan | Postgraduate Associate | vignesh.vanchinathan@yale.edu | 
-| Huihong Li | Masters Student | huihong.li@yale.edu | 
-| Aidan Schneider | Postdoctoral Researcher | aidan.schneider@yale.edu | 
+| Huihong Li | Postgraduate Associate | huihong.li@yale.edu | 
+| Aidan Schneider | Postdoctoral Researcher | aidan.schneider@yale.edu |
+| Subhadra Mokashe | Postdoctoral Researcher | subhadrasatish.mokashe@yale.edu |
+| Meghan Cum | PhD Student | meghan.cum@yale.edu |
+| Ishir Rao | Undergraduate Student | ishir.rao@yale.edu | 
