@@ -40,3 +40,14 @@ VS Code is a great IDE because it's open source (unlike e.g. PyCharm), highly cu
 
 ### Claude Code
 The lab has a [Claude Teams](https://levensteinlab.github.io/Lab-Handbook/Resources/claude_teams/) account. We're all still figuring out together how to use this quickly-changing tool to do quality research, but one thing it can be good at is helping maintain code organization and quality. This section will need to be updated over the next few months as the lab develops our workflows and practices around Claude. Please explore how you can best use these tools, and discuss with other members of the lab.
+
+You can improve your experience of using Claude Code (CC) by implementing skills and subagents, both of which are tools to align your agent with your exact needs. Skills are protocols that get loaded into your agent context window. For example, making a skill called "/summarize" to brief you on the status of your currently running Misha jobs. Subagents are *separate* agents with their own context window, and may be more helpful if you would like to complete a side task without clogging the main context window. An example is designing a "referree" agent to monitor your dialogue with the main agent and ensure you're not relinquishing too much intellectual control. 
+
+Skills and subagents must be formatted correctly in your project repo, particularly to work on Misha. Skills must have YAML frontmatter and be organized like the following: `.claude/skills/SKILL_NAME_HERE/SKILL.md`, while subagents are organized like this: `.claude/agents/AGENT_NAME_HERE.md`. 
+
+Here are some additional resources:
+
+- [Anthropic's guide to claude skills](https://code.claude.com/docs/en/skills)
+- [Anthropic's guide to claude subagents](https://code.claude.com/docs/en/sub-agents)
+- [Viggy's Repository of Skills/Agents](https://github.com/vviggyy/chars)
+
