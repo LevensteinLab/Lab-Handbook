@@ -126,6 +126,51 @@ At first, attempting to clone a repository in the standard way (e.g. `git clone 
 8. Set up a conda environment like above to run it!
 
 
+### Job notifications (Slack & email)
+Instead of running `squeue`, you can have a job ping you when it finishes or fails.
+
+**Email** is built into SLURM — use the `--mail-user` / `--mail-type` flags from the cheat sheet above (e.g. `--mail-type=END,FAIL`). Note: For array jobs, `END`/`FAIL` send one email per array task, so it may be preferable to only add `--mail-type=FAIL` there so you don't get 50 emails.
+
+**Slack** can be configured via [Webhooks](https://api.slack.com/messaging/webhooks):
+
+1. **Create a webhook** (in a browser, not the desktop app): [api.slack.com/apps](https://api.slack.com/apps) → **Create New App** → **From scratch** → name it and pick the lab workspace → in the sidebar, **Incoming Webhooks** → toggle **On** → **Add New Webhook to Workspace** → choose a channel (you can send yourself a DM or add a private `#misha-jobs`) → **Allow**. Copy the URL (`https://hooks.slack.com/services/…`). *(If the "Add to Workspace" button is greyed out, your workspace requires a workspace admin to approve the app, but I was able to set it up without admin approval.)*
+
+2. **Save it on Misha** — it's a write-secret, so keep it private and never commit it:
+```bash
+echo 'https://hooks.slack.com/services/T.../B.../...' > ~/.slack_webhook
+chmod 600 ~/.slack_webhook
+```
+
+3. **Test from a login node** (no job needed):
+```bash
+curl -s -X POST -H 'Content-type: application/json' --data '{"text":"hello from Misha"}' "$(cat ~/.slack_webhook)"
+```
+A message in your channel means it works.
+
+4. **Add to a SLURM script** — near the top, after `set -e`:
+```bash
+set -e   # so the script stops (and the fail alert fires) on the first error
+
+# ── Slack notification ───────────────────────────────────────────────
+WEBHOOK="${SLACK_WEBHOOK_URL:-$(cat "$HOME/.slack_webhook" 2>/dev/null || true)}"
+slack() {
+    [ -z "$WEBHOOK" ] && return 0
+    curl -s -X POST -H 'Content-type: application/json' \
+         --data "{\"text\":\"$1\"}" "$WEBHOOK" >/dev/null 2>&1 || true
+}
+trap 'slack "❌ ${SLURM_JOB_NAME} (job ${SLURM_JOB_ID}) FAILED on $(hostname)"' ERR
+```
+Then call `slack` wherever you want a ping:
+```bash
+slack "🚀 ${SLURM_JOB_NAME} started"
+slack "✅ ${SLURM_JOB_NAME} finished"
+```
+
+* The `trap … ERR` auto-sends a failure alert if any command errors (relies on `set -e`).
+* The webhook is read from `~/.slack_webhook` (or a `SLACK_WEBHOOK_URL` env var), so it stays out of committed scripts.
+* **Array jobs:** add `[task ${SLURM_ARRAY_TASK_ID}]` to the messages, and use FAIL-only — a START/DONE per task means one message *per array task* (often hundreds).
+
+
 ### Reference:
 * [Introduction to HPC Clusters (YouTube Video)](https://www.youtube.com/watch?v=SaiXaC0jRjE&t=2s) (1:16 hr workshop video going over SLURM and how to log-in)
 * [Getting Started page](https://docs.ycrc.yale.edu/clusters-at-yale/)
