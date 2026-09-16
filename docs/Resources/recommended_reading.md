@@ -21,23 +21,23 @@
 
 **Artificial Neural Networks (ANNs)**
 
-- https://www.sciencedirect.com/science/article/pii/S0896627320307054
+- [Artificial Neural Networks for Neuroscientists: A Primer](https://www.sciencedirect.com/science/article/pii/S0896627320307054), Yang GR, Wang X-J, 2020, Neuron
 
 **neuroAI**
 
-- https://www.nature.com/articles/s41583-023-00705-w
-- https://www.nature.com/articles/s41593-019-0520-2
+- [The neuroconnectionist research programme](https://www.nature.com/articles/s41583-023-00705-w), Doerig A et al, 2023, Nat Rev Neurosci
+- [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2), Richards BA et al, 2019, Nat Neurosci
 
 **Replay in brains and ANNs**
 
-- https://www.cell.com/trends/neurosciences/abstract/S0166-2236(21)00144-2
-- https://direct.mit.edu/neco/article-abstract/33/11/2908/107071/Replay-in-Deep-Learning-Current-Approaches-and
-- https://www.tandfonline.com/doi/abs/10.1080/095400996116910
-- https://www.nature.com/articles/s41467-020-17866-2
+- [Learning offline: memory replay in biological and artificial reinforcement learning](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(21)00144-2), Roscow EL et al, 2021, Trends in Neurosci
+- [Replay in Deep Learning: Current Approaches and Missing Biological Elements](https://direct.mit.edu/neco/article-abstract/33/11/2908/107071/Replay-in-Deep-Learning-Current-Approaches-and), Hayes TL et al, 2021, Neural Computation
+- [Consolidation in Neural Networks and in the Sleeping Brain](https://www.tandfonline.com/doi/abs/10.1080/095400996116910), Robins A, 2010, Connection Science
+- [Brain-inspired replay for continual learning with artificial neural networks](https://www.nature.com/articles/s41467-020-17866-2), van de Ven G et al, 2020, Nature Comms  
 
-**hippocampus**
+**Hippocampus**
 
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC4648295/
+- [Hippocampal sharp wave‐ripple: A cognitive biomarker for episodic memory and planning](https://pmc.ncbi.nlm.nih.gov/articles/PMC4648295/), Buzsáki G, 2015, Hippocampus
 
 **Hippocampus/MEC - recent models**
 
@@ -73,14 +73,13 @@
 - Driscoll et al, 2024, *Nature Neuroscience*. [Flexible multitask computation in recurrent networks utilizes shared dynamical motifs](https://www.nature.com/articles/s41593-024-01668-6)
 - Genkin et al, 2025, Nature. [The dynamics and geometry of choice in the premotor cortex](https://www.nature.com/articles/s41586-025-09199-1)
 - Langdon et al, 2025, *Nature Neuroscience*. [Latent circuit inference from heterogeneous neural responses during cognitive tasks](https://www.nature.com/articles/s41593-025-01869-7)
-- 
 
 **General - scientific process**
 
-- https://web.stanford.edu/~fukamit/schwartz-2008.pdf
-- https://www.nature.com/articles/s41587-023-02074-2
+- [https://web.stanford.edu/~fukamit/schwartz-2008.pdf](https://web.stanford.edu/~fukamit/schwartz-2008.pdf) (broken link)
+- [It takes two to think](https://www.nature.com/articles/s41587-023-02074-2), Yanai I, Lercher M, 2024, Nat Biotech
 
-**modeling and theory**
+**Modeling and theory**
 
-- https://pubmed.ncbi.nlm.nih.gov/39257366/
-- https://www.jstor.org/stable/184253
+- [Milking a spherical cow: Toy models in neuroscience ](https://pubmed.ncbi.nlm.nih.gov/39257366/), Beer R et al, 2024, Eur J Neurosci
+- [The Role of Models in Science](https://www.jstor.org/stable/184253), Rosenblueth Q, Wiener N, 1945, Philosophy of Science
