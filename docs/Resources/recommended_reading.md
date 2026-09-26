@@ -18,7 +18,6 @@
 
 - [Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory](https://pubmed.ncbi.nlm.nih.gov/7624455/), McClelland JL et al, 1995, Psychol Rev
 
-
 **Artificial Neural Networks (ANNs)**
 
 - [Artificial Neural Networks for Neuroscientists: A Primer](https://www.sciencedirect.com/science/article/pii/S0896627320307054), Yang GR, Wang X-J, 2020, Neuron
@@ -33,7 +32,7 @@
 - [Learning offline: memory replay in biological and artificial reinforcement learning](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(21)00144-2), Roscow EL et al, 2021, Trends in Neurosci
 - [Replay in Deep Learning: Current Approaches and Missing Biological Elements](https://direct.mit.edu/neco/article-abstract/33/11/2908/107071/Replay-in-Deep-Learning-Current-Approaches-and), Hayes TL et al, 2021, Neural Computation
 - [Consolidation in Neural Networks and in the Sleeping Brain](https://www.tandfonline.com/doi/abs/10.1080/095400996116910), Robins A, 2010, Connection Science
-- [Brain-inspired replay for continual learning with artificial neural networks](https://www.nature.com/articles/s41467-020-17866-2), van de Ven G et al, 2020, Nature Comms  
+- [Brain-inspired replay for continual learning with artificial neural networks](https://www.nature.com/articles/s41467-020-17866-2), van de Ven G et al, 2020, Nature Comms
 
 **Hippocampus**
 
@@ -64,7 +63,7 @@
 - Inagaki et al, 2019, Nature. [Discrete attractor dynamics underlies persistent activity in the frontal cortex](https://pubmed.ncbi.nlm.nih.gov/30728503/)
 - Chaudhuri et al, 2019, *Nature Neuroscience*. [The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep](https://www.nature.com/articles/s41593-019-0460-x)
 - Yang et al, 2019, *Nature Neuroscience*. [Task representations in neural networks trained to perform many cognitive tasks](https://pubmed.ncbi.nlm.nih.gov/30643294/)
-- Vyas et al, 2020, *Annual Review of Neuroscience*. [Computation Through Neural Population Dynamics](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-092619-094115) 
+- Vyas et al, 2020, *Annual Review of Neuroscience*. [Computation Through Neural Population Dynamics](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-092619-094115)
 - Barack et al, 2021, *Nat Rev Neurosci*. [Two views on the cognitive brain](https://pubmed.ncbi.nlm.nih.gov/33859408/)
 - Kriegeskorte et al, 2021, *Nature Reviews Neuroscience*. [Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3)
 - Jazayeri & Ostojic, 2021, Current Opinion in Neurobiology. [Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity](https://www.sciencedirect.com/science/article/pii/S0959438821000933) 
@@ -83,3 +82,6 @@
 
 - [Milking a spherical cow: Toy models in neuroscience ](https://pubmed.ncbi.nlm.nih.gov/39257366/), Beer R et al, 2024, Eur J Neurosci
 - [The Role of Models in Science](https://www.jstor.org/stable/184253), Rosenblueth Q, Wiener N, 1945, Philosophy of Science
+
+
+Overwhelmed by an ever-lengthening list of papers to read? Looking at the papers channel in Slack and thinking, "how does Dan read so many papers so quickly?" Give this a quick read: [How I read a scientific paper in 20 minutes](https://predirections.substack.com/p/how-i-read-a-scientific-paper-in), [Jonathan Tonkin](https://substack.com/@jdtonkin)
