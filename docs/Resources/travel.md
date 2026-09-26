@@ -11,7 +11,9 @@ You have a few options when it comes to airports:
 
 The three NYC airports (including EWR) are generally far cheaper and better connected. The direct Amtrak train from New Haven to Newark/EWR makes that the most convenient option. You can book Amtrak tickets in [Concur](https://concur.yale.edu/) (you should book them in advance) or use the [TrainTime App](https://www.mta.info/traintime) to buy Metro-North/LIRR tickets (less important to buy in advance).
 
-Update 6/14: booking travel will need to be done with admin assistance. Contact Liz (elizabeth.wallack@yale.edu) and she'll help you out. If the previous instruction is out of date, please update it.
+Booking tickets on Concur is straightforward. Once you visit the site, you can choose a funding source (e.g. "Non-Federal Sponsored Business Travel"), a mode of transport (plane, train, etc.), a departure city, and an arrival city. After selecting tickets, you can input p-card information into the site.
+
+Booking travel can also be done with admin assistance. If you have any questions, contact Liz (elizabeth.wallack@yale.edu) and she'll help you out in-person or over email. She's in office on Mondays, Wednesdays, and Thursdays. 
 
 ## Paying for registration and abstract submission
 
@@ -19,7 +21,7 @@ Flights, hotels, and trains go through Concur as above, but some conference cost
 
 You have three options here:
 
-- **Lab Purchasing card.** Speak with Dan about using the lab card. It can be used for conference/regsitration purchases, but it must remain with Dan (i.e. don't take it anywhere or save the card information).
+- **Lab Purchasing card.** Speak with Dan about using the lab card. It can be used for conference/regsitration purchases, but it must remain with Dan (i.e. don't take it anywhere or save the card information). SfN has the option to "Hold Registration" until a third-party inputs payment information. Using this option and putting in Dan's email will directly send him a request for payment, which may be more convenient than physically passing around the lab card.
 - **Department Purchasing card.** Reach out to Liz (elizabeth.wallack@yale.edu) and she'll coordinate its use for your specific registration or submission. The card can't be used to book travel, but it can also be used for registration-type purchases.
 - **Your own card, then reimbursement.** Alternatively, pay with your personal credit card and submit for reimbursement, also through Liz (elizabeth.wallack@yale.edu).
 

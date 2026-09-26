@@ -27,3 +27,7 @@ Printer Setup Tutorial (Step-by-step):
     - Optionally: change `Protocol` to `Line Printer Daemon - LPD` format. This is recommended by the manual.
     - Click the `Add` button.
 - You should be able to print! **NOTE: You must be connected to the *YaleSecure* network to use the printer over wireless.** If you are not connected, the printer will fail. The printer is already connected to *YaleSecure* so you should not need to touch the WiFi settings.
+
+Maintenance:
+
+The front of the printer has a service number for BBi Technologies. Call 203-878-3581 for service needs (e.g. to replace toner).
