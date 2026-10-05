@@ -43,7 +43,7 @@ One thing worth mentioning: when you share plots or results on slack between mee
 
 ### Lab Meeting
 
-Lab meeting is every Thursday at 10AM. We follow a rotation where each person alternates between presenting a research update and picking a paper for journal club. The schedule is posted in the #lab-meeting channel on Slack.
+Lab meeting is every Wednesday at 3:30PM. We follow a rotation where each person alternates between presenting a research update and picking a paper for journal club. The schedule is posted in the #lab-meeting channel on Slack.
 
 **Research presentations** are a chance to get feedback, practice presenting, and keep everyone up to date on what's happening in the lab. See the [presentations guide](https://levensteinlab.github.io/Lab-Handbook/Resources/presentations/) for tips on giving a good lab meeting talk.
 

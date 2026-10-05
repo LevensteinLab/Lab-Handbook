@@ -36,6 +36,12 @@
         - Trainings may take multiple hours, and you may want to do this over multiple days.
 
 
+**Undergraduate research assistants (paid positions)**
+
+- Paid undergraduate positions go through Yale student employment, not the regular staff hiring process above.
+- Once your start date has been entered, you'll get an email listing the employment forms you need to submit (tax forms, I-9, etc.).
+- Complete all of them **before** you start working or logging hours. If hours get logged before the paperwork is in, the university will send Dan an unpleasant email.
+
 **Your first day**
 
 - [Join the lab slack](https://join.slack.com/t/levensteinlab/shared_invite/zt-3coybbilg-4v5vsK2SFpaGU~NH5QD1lA). You'll be added to some channels, but take a look through the channels and join any that interest you!
