@@ -36,9 +36,9 @@
         - Trainings may take multiple hours, and you may want to do this over multiple days.
 
 
-**Undergraduate research assistants (paid positions)**
+**Undergraduate research assistants**
 
-- Paid undergraduate positions go through Yale student employment, not the regular staff hiring process above.
+- Undergraduate positions are paid through Yale student employment, not the regular staff hiring process above.
 - Once your start date has been entered, you'll get an email listing the employment forms you need to submit (tax forms, I-9, etc.).
 - Complete all of them **before** you start working or logging hours. If hours get logged before the paperwork is in, the university will send Dan an unpleasant email.
 
