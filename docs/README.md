@@ -17,6 +17,6 @@ In addition to our work on sleep, the lab works broadly at the interface of theo
 
 **Where to start?**
 
-So you want to join the lab? - prospective members start here
+[So you want to join the lab?](https://levensteinlab.github.io/Lab-Handbook/prospective_members/) - prospective members start here
 
 [Onboarding](https://levensteinlab.github.io/Lab-Handbook/onboarding/) - new members start here

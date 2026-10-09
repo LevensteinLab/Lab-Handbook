@@ -9,8 +9,9 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 1. Fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfLghL1gSHRkIQj73zPzvLCJ0sojm9aUHZLQGBD_auD054gqA/viewform?usp=send_form) to access the cluster, noting Dan as the PI from which to get access. You should get access in ~48 hours. 
 2. Receive email from `hpc@yale.edu` with your username and instructions on how to login.
 3. Choose login method. 
-    1. Access to Misha needs to be done through Secure Shell (SSH).
+    1. Access to Misha is usually done through Secure Shell (SSH).
     2. Other clusters have a web interface for logging on (Bouchet, Grace, McCleary, and Milgram). Find the links for the platform, called Open OnDemand (OOD), [here](https://docs.ycrc.yale.edu/clusters-at-yale/access/ood/).
+    3. Misha also has an Open OnDemand web portal, including a [Remote Desktop](https://docs.ycrc.yale.edu/clusters-at-yale/access/ood-remote-desktop/) app for programs that need a GUI. If the remote desktop is laggy, request more memory when you launch it.
 4. (*First time login only*) Generate your public and private ssh keys. These keys are used to authenticate you during the remote login (i.e. they tell the cluster that you're you.). Keep the private key a secret!
     1. Instructions on how to do this can be found [here](https://docs.ycrc.yale.edu/clusters-at-yale/access/ssh/).
     2. Note: the example in the documentation uses the *RSA* encryption scheme, but using the `ssh-keygen` command on Macs without any additional argument will use the *Ed25519* encryption scheme. The key still works and will be stored in something like `id_ed25519.pub`.
@@ -51,6 +52,16 @@ To get started visit this page for [some info](https://docs.ycrc.yale.edu/cluste
 
 ### QOS-Based GPU Allocation
 By default, jobs are submitted with standard priority. This means that when cluster resources are scarce, these jobs can be preempted, or terminated, in favor of high-priority jobs. This isn't generally a problem for shorter jobs, but for long jobs that are resource-intensive, it may make sense to submit a high-priority job using a SLURM mechanism called QOS (Quality of Service). Our lab has a certain number of guaranteed resources which you can gain access by using the `--qos=qos_levenstein` along with `salloc` or `sbatch`. See the [Misha Guide](https://ood-misha.ycrc.yale.edu/public/misha/04-qos.html) for more info. It's also recommended to use checkpoints in case a job does get terminated.
+
+### Why is my job stuck in the queue?
+Misha is shared, and when it's busy, waits on `gpu`, `day` and even `week` can stretch to hours or days, even for jobs that only ask for one CPU and a few GB of memory. A few things that help:
+
+* **Test in an interactive job, submit the long stuff.** Do debugging and short analyses in an interactive session (you usually get one much faster), and save batch jobs for things that are long, already tested, or run in parallel. `gpu_devel` is good for quick GPU tests.
+* **Small networks often run fine on CPU.** Speed is basically the only difference. Watch out for errors when loading a checkpoint saved on GPU onto a CPU job, or vice versa.
+* **Know about fairshare.** Job priority goes down when our *group* has used a lot of compute over the past few weeks, so a big sweep can push your (and your labmates') later jobs down the queue for a while. It recovers over time. `sprio -j JOBID` shows what's setting a pending job's priority, and `sshare -a -A GROUP` shows recent usage by group members. See the [YCRC fairshare docs](https://docs.ycrc.yale.edu/clusters-at-yale/job-scheduling/fairshare/) for details.
+* **Request accurate time and resources.** Shorter, accurate walltime requests are more likely to get backfilled into gaps in the schedule, and bundling many similar jobs into a `dsq` job array helps too.
+* **Use the lab QOS** (above) for long jobs that really matter.
+* **If waits are unreasonable, email Ping** She can tell you whether it's general load or something about how your jobs are set up.
 
 ### Cheat Sheet
 
