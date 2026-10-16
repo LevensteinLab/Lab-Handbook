@@ -6,15 +6,17 @@ Mailing lists/groups you may wish to sign up for/get added to, and how. Click th
 
 ### Mailing Lists
 
-1. [Neuroscience mailing list](https://mailman.yale.edu/mailman/listinfo/neuroscience)
-2. [Interdepartmental Neuroscience Program (INP) mailing list](https://mailman.yale.edu/mailman/listinfo/inp_general)
-3. *[Wu Tsai Institute (WTI) mailing list](https://mailman.yale.edu/mailman/listinfo/wti-members)
-4. *[WTI Trainees mailing list](https://mailman.yale.edu/mailman/listinfo/wti-trainee)
-5. Research in Progress (RIP) mailing list - Ask Dan to email on your behalf
-6. *[WTI NeuroAI Journal Club mailing list](https://mailman.yale.edu/mailman/listinfo/wti-neuro-ai-jc)
-7. [APplied PHilosophy In NEuroscience (APHINE)](https://yaleconnect.yale.edu/aphine/home/)
-8. [Quantitative Biology (QBio) talks](https://mailman.yale.edu/mailman/listinfo/qbio)
-9. Foundations of Data Science Institute talks - visit `subscribe.yale.edu` and find "FDS Announcements" under the "Research Administration" category
+1. *[Neuroscience mailing list](https://mailman.yale.edu/mailman/listinfo/neuroscience)
+2. *[Computational Suite mailing list](https://mailman.yale.edu/mailman/listinfo/wti-c-suite)
+3. [Interdepartmental Neuroscience Program (INP) mailing list](https://mailman.yale.edu/mailman/listinfo/inp_general)
+4. *[Wu Tsai Institute (WTI) mailing list](https://mailman.yale.edu/mailman/listinfo/wti-members)
+5. *Ask someone to add you to the computational suite channel in WTI slack (#wti-c-suite)
+6. *[WTI Trainees mailing list](https://mailman.yale.edu/mailman/listinfo/wti-trainee)
+7. Research in Progress (RIP) mailing list - Ask Dan to email on your behalf
+8. *[WTI NeuroAI Journal Club mailing list](https://mailman.yale.edu/mailman/listinfo/wti-neuro-ai-jc)
+9. [APplied PHilosophy In NEuroscience (APHINE)](https://yaleconnect.yale.edu/aphine/home/)
+10. [Quantitative Biology (QBio) talks](https://mailman.yale.edu/mailman/listinfo/qbio)
+11. Foundations of Data Science Institute talks - visit `subscribe.yale.edu` and find "FDS Announcements" under the "Research Administration" category
 
 
 It's also possible to check out all `mailman@yale` links or manage your subscriptions with the links below:
